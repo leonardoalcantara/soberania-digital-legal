@@ -22,3 +22,4 @@ a última é a 18/2026).
 | `pesquisa/brasil/`           | PEC da Sâmia, inventário da legislação vigente, base constitucional                     |
 | `pesquisa/intl/`             | Panorama mundial, um arquivo por bloco de jurisdição                                    |
 | `referencias/`               | Bibliografia acadêmica e de advocacy, com tese e utilidade                              |
+| `ideias/`                    | Ideias e sugestões em estudo                                                            |
