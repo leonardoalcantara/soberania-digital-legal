@@ -8,9 +8,6 @@ Estudo sobre uma proposta de lei de soberania digital para o Brasil. O projeto v
 
 Em paralelo também será realizado o levantamento do que já existe no arcabouço legislativo do Brasil.
 
-Por fim, será realizada uma proposta de regulamentação complementar/suplementar/alternativa para a PEC anunciada
-em 28/10/2026 pela Dep. Sâmia Bomfim — que **ainda não foi protocolada** (a Câmara tem 7 PECs de 2026;
-a última é a 18/2026).
 
 ## Organização
 
@@ -23,3 +20,11 @@ a última é a 18/2026).
 | `pesquisa/intl/`             | Panorama mundial, um arquivo por bloco de jurisdição                                    |
 | `referencias/`               | Bibliografia acadêmica e de advocacy, com tese e utilidade                              |
 | `ideias/`                    | Ideias e sugestões em estudo                                                            |
+
+## Produto
+
+Uma proposta de regulamentação complementar/suplementar/alternativa para a PEC anunciada
+em 28/10/2026 pela Dep. Sâmia Bomfim — que **ainda não foi protocolada** (a Câmara tem 7 PECs de 2026;
+a última é a 18/2026).
+
+Em paralelo será elaborado um texto de suporte para justificar os pontos da proposta.
