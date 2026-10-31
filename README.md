@@ -1,13 +1,22 @@
-# soberania-digital-legal
+# Projeto de Lei para Soberania Digital
 
-Levantamento de fontes e dossiês para uma proposta de lei de soberania digital no Brasil, com o arcabouço australiano e o panorama internacional como referência.
+**Em um mundo em que as pessoas vivem com seus celulares na mão o tempo todo, e este se tornou a principal forma de informação, é necessário repensar o poder de quem controla o que aparece e o que não aparece nestas telas.**
+
+## O Projeto
+
+Consiste em um levantamento sistemático do que já existe sobre a discussão do poder que possuem as chamadas *Bigtechs* e as discussões sobre as formas de controle efetivas e necessárias para garantir a soberania dos países.
+
+Inclui como fontes propostas de lei, regulamentações, artigos de *advocacy*, artigos acadêmicos e etc. Também será compilado o que já existe no arcabouço legislativo do Brasil.
 
 ## Objeto
 
-Estudo sobre uma proposta de lei de soberania digital para o Brasil. O projeto visa levantar tudo que já existe de propostas de lei no mundo, artigos acadêmicos e artigos de "advocacy" referente ao tema.
+Elaboração de um estudo para uma proposta de lei de soberania digital para o Brasil. E como material de suporte textos de explicam e justificam as propostas.
 
-Em paralelo também será realizado o levantamento do que já existe no arcabouço legislativo do Brasil.
+## Como Participar
 
+Os arquivos estão hospedados neste repositório do *github* e organizados segundo a estrutura descrita abaixo. Clone localmente para a sua máquina, estude o material e submeta sugestões e melhorias através de PRs. As discussões serão realizadas através do **Coletivo Popular de Luta Virtual.**
+
+É sugerido a utilização de um leitor de markdown para navegar nos arquivos no seu computador local. Por exemplo o Obsidian
 
 ## Organização
 
@@ -21,10 +30,5 @@ Em paralelo também será realizado o levantamento do que já existe no arcabou�
 | `referencias/`               | Bibliografia acadêmica e de advocacy, com tese e utilidade                              |
 | `ideias/`                    | Ideias e sugestões em estudo                                                            |
 
-## Produto
 
-Uma proposta de regulamentação complementar/suplementar/alternativa para a PEC anunciada
-em 28/10/2026 pela Dep. Sâmia Bomfim — que **ainda não foi protocolada** (a Câmara tem 7 PECs de 2026;
-a última é a 18/2026).
 
-Em paralelo será elaborado um texto de suporte para justificar os pontos da proposta.
