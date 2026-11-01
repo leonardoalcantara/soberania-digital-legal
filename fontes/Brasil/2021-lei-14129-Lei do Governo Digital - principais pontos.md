@@ -1,0 +1,15 @@
+1. **Objeto** — dispõe sobre princípios, regras e instrumentos para o aumento da eficiência da administração pública, especialmente por meio da desburocratização, da inovação, da transformação digital e da participação do cidadão (art. 1º); aplica-se aos órgãos e entidades da administração direta e indireta dos entes federativos (art. 2º).
+
+2. **Princípios e diretrizes** (art. 3º) — desburocratização e simplificação da relação do poder público com a sociedade; disponibilização em plataforma única do acesso a informações e serviços; transparência na execução dos serviços e monitoramento da qualidade; incentivo à participação social no controle e fiscalização; dever do gestor de prestar contas diretamente à população; e, no inciso XXV, **a adoção preferencial, no uso da internet e de suas aplicações, de tecnologias, de padrões e de formatos abertos e livres**, conforme o art. 24, V, do Marco Civil da Internet.
+
+3. **Digitalização e serviços públicos** (arts. 5º a 27) — processos administrativos eletrônicos, documentos nato-digitais, assinatura eletrônica, prestação digital de serviços, Base Nacional de Serviços Públicos, Plataformas de Governo Digital e direitos dos usuários da prestação digital (art. 27).
+
+4. **Identificação do cidadão** (art. 28) — o número de inscrição no CPF ou no CNPJ fica estabelecido como **número suficiente para identificação** do cidadão e da pessoa jurídica nos bancos de dados de serviços públicos, vedada nova exigência de número.
+
+5. **Dados abertos e governo como plataforma** (arts. 29 a 34) — os dados disponibilizados por prestadores de serviços públicos e as informações de transparência ativa são de **livre utilização pela sociedade** (art. 29); na transparência ativa deve-se observar a **publicidade das bases de dados não pessoais como preceito geral e o sigilo como exceção** (art. 29, § 1º, I); qualquer interessado pode requerer a **abertura de bases de dados** da administração pública, com prazo para resposta e direito ao inteiro teor da decisão negativa (arts. 30 e 34); inconsistências na base não podem obstar o atendimento (art. 32).
+
+6. **Estratégias e estrutura** — a administração pública deve participar da consolidação da **Estratégia Nacional de Governo Digital** (art. 15), e cada ente pode editar sua própria estratégia (art. 16); a lei ainda disciplina domicílio eletrônico (Capítulo V) e laboratórios de inovação (Capítulo VI).
+
+7. **O que a lei não trata — e isso importa** — a Lei do Governo Digital **não menciona computação em nuvem**, não estabelece requisitos de hospedagem ou residência de dados e não trata de fornecedores estrangeiros. A contratação federal de nuvem é regida por norma infralegal (IN SGD/ME nº 94/2022), que exige portabilidade e "disponibilidade para transferência de localização", mas não residência de dados.
+
+8. **Natureza do instrumento** — é lei, mas de **organização administrativa**: cria deveres para o Estado, não para terceiros. Serve como base legal para políticas internas de digitalização e para a abertura de dados, não como instrumento de soberania sobre infraestrutura.
