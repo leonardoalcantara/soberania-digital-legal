@@ -1,0 +1,15 @@
+1. **Objeto** — institui a Política Nacional de Cibersegurança (PNCiber), com a finalidade de orientar a atividade de segurança cibernética no País (art. 1º).
+
+2. **Princípios** (art. 2º) — **soberania nacional e priorização dos interesses nacionais** (inciso I); garantia dos direitos fundamentais, em especial liberdade de expressão, proteção de dados pessoais, privacidade e acesso à informação (inciso II); prevenção de incidentes, em particular os dirigidos a infraestruturas críticas e serviços essenciais (inciso III); resiliência das organizações públicas e privadas (inciso IV); educação e desenvolvimento tecnológico em segurança cibernética (inciso V); cooperação entre órgãos e entidades públicas e privadas (inciso VI); e cooperação técnica internacional (inciso VII).
+
+3. **Objetivos** (art. 3º) — entre eles: promover o desenvolvimento de **produtos, serviços e tecnologias de caráter nacional** destinados à segurança cibernética (inciso I); garantir confidencialidade, integridade, autenticidade e disponibilidade das soluções e dados usados no processamento, armazenamento e transmissão de informações (inciso II); fortalecer a atuação diligente no ciberespaço em relação a crianças, adolescentes e idosos (inciso III); combater crimes cibernéticos (inciso IV); estimular gestão de riscos (inciso V); incrementar resiliência (inciso VI); desenvolver educação e capacitação (inciso VII); fomentar pesquisa e inovação (inciso VIII); e incrementar a atuação coordenada e o intercâmbio de informações entre entes federativos, Poderes, setor privado e sociedade (inciso IX).
+
+4. **Instrumentos** (art. 4º) — a política define seus próprios instrumentos de execução, complementados pela Estratégia e pelo Plano Nacional de Cibersegurança.
+
+5. **Comitê Nacional de Cibersegurança (CNCiber)** — instituído no âmbito da Câmara de Relações Exteriores e Defesa Nacional (art. 5º), com competência para propor atualizações da PNCiber, da Estratégia e do Plano Nacional, avaliar e propor medidas de incremento da segurança cibernética, formular propostas de prevenção, detecção e resposta a incidentes, propor medidas de educação, promover interlocução com entes federativos e sociedade e propor estratégias de cooperação internacional (art. 6º).
+
+6. **Composição e funcionamento** — composto por representantes de órgãos e entidades (art. 7º); as deliberações relativas às competências do art. 6º são submetidas à Câmara de Relações Exteriores e Defesa Nacional (art. 8º); reuniões ordinárias trimestrais (art. 9º); pode instituir grupos de trabalho temáticos (art. 10); a Secretaria-Executiva é exercida pelo Gabinete de Segurança Institucional da Presidência da República (art. 13).
+
+7. **Relação com a norma anterior** — revoga dispositivos do Decreto nº 9.637/2018 (art. 15), que tratava da Política Nacional de Segurança da Informação.
+
+8. **Natureza do instrumento** — é **decreto**, não lei: fixa princípios, objetivos e instâncias de coordenação, mas **não cria obrigação exigível de pessoa privada nem sanção**. É a norma que positivou a soberania nacional como princípio, sem instrumento correspondente.
