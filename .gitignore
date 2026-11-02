@@ -1,3 +1,8 @@
 .DS_Store
 .obsidian/*
 
+
+# XML do Online Safety Act fica fora do git: contém 145 identificadores internos do banco
+# legislativo britânico no formato "key-<32 hex>", que a proteção de segredos do GitHub
+# confunde com chaves da Mailgun (falso positivo). O texto está em .md e o PDF está versionado.
+fontes/Reino-Unido/2023-online-safety-act.xml
