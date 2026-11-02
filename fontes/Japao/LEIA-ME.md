@@ -46,6 +46,6 @@ de artigo, o XML serve.
 
 ## Arquivos `.md` (extração de texto)
 
-Os arquivos `.md` de mesmo nome dos PDFs são **extração de texto feita pelo Leonardo** a partir do PDF
+Os arquivos `.md` de mesmo nome dos PDFs são **extração de texto** feita a partir do PDF
 correspondente. Servem para busca, leitura e citação rápida; **não substituem o PDF oficial** — em caso
 de divergência, vale o PDF.

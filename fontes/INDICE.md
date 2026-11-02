@@ -63,6 +63,7 @@ consolidado) e **PDF** para a Constituição (edição do STF). Citação por ar
 | Decreto 12.573/2025 — E-Ciber vigente | Decreto | vigente | `brasil/2025-decreto-12573-eciber.html` | [Planalto](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12573.htm) |
 | Resolução TSE 23.755, de 02/03/2026 | Resolução | altera a Res. 23.610/2019 (propaganda eleitoral) | `brasil/2026-resolucao-tse-23755.md` | [TSE](https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-755-de-2-de-marco-de-2026) — **captura por proxy, ver cabeçalho do arquivo** |
 | Lei 15.504/2026 — Redata (data centers) | Lei | vigente, publicada em 16/09/2026 | `brasil/2026-lei-15504-redata.html` | [Planalto](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15504.htm) |
+| STF — tese de repercussão geral, RE 1037396 (Tema 987) e RE 1057258 (Tema 533), art. 19 do Marco Civil | Tese | julgada em 26/06/2025; 5 p. | `Brasil/2025-stf-tese-re-1037396-art19-marco-civil.pdf` | [STF](https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2025/06/26205223/MCI_tesesconsensuadas.pdf) |
 
 **Atenção:** o Decreto 10.222/2020 está arquivado **histórico** — citar a E-Ciber por ele é erro
 material. A estratégia vigente é o Decreto 12.573/2025, que remete aos objetivos da PNCiber
@@ -83,6 +84,19 @@ material. A estratégia vigente é o Decreto 12.573/2025, que remete aos objetiv
 
 **Fonte de tudo isso:** `pesquisa/brasil/dossie-brasil.md` (1.080 linhas, cada fato rotulado
 CONFIRMADO / IMPRENSA / DIVERGÊNCIA / NÃO CONFIRMADO).
+
+## Estados Unidos (em construção)
+
+Só o acordo Meta × procuradores-gerais está indexado. Faltam os demais instrumentos da pasta
+(`fontes/EUA/`) — ver `fontes/EUA/LEIA-ME.md`.
+
+| Instrumento | Tipo | Texto | Arquivo | Origem |
+|---|---|---|---|---|
+| Acordo Meta × 51 procuradores-gerais — *Settlement Agreement*, caso 4:23-cv-05448-YGR (N.D. Cal.), Doc. 572-1 | Acordo executado (sujeito a homologação) | 26/08/2026, 130 p. de acordo | `EUA/2026-acordo-meta-51-procuradores-gerais-consent-judgment.pdf` | [CA OAG](https://oag.ca.gov/system/files/attachments/press-docs/23-05448-ecf-572-1-exhibit-1-mdl-consent-judgment-final-settlment-agreement-fully-executed.pdf) |
+
+**Para que serve no estudo:** único precedente do acervo em que plataforma assume, por acordo, feed só de
+contas seguidas em ordem cronológica como opção de padrão para menores (Ideia_001, variante D), além de
+limite diário, bloqueio noturno, *age assurance* e auditor independente. **Não é lei** — citar por seção.
 
 ## União Europeia e outros
 
