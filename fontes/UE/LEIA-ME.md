@@ -7,6 +7,7 @@
 | `2022-regulamento-ue-2022-2065-dsa.pdf` | Regulamento (UE) 2022/2065 — Digital Services Act | 102 p. | Em vigor desde 16/11/2022 |
 | `2022-regulamento-ue-2022-1925-dma.pdf` | Regulamento (UE) 2022/1925 — Digital Markets Act | 66 p. | Em vigor desde 01/11/2022 |
 | `2026-proposta-ue-eu-kids-act.pdf` | COM(2026) 681 final — proposta do "EU KIDS Act" | 99 p. | **Proposta** de 17/09/2026, sem posição do Parlamento |
+| `2016-regulamento-ue-2016-679-rgpd.pdf` + `.md` | **RGPD** — Regulamento (UE) 2016/679, de 27/04/2016 | — | Em vigor desde 25/05/2018; define o conceito de **perfilamento** usado pelo DSA, art. 38 |
 
 ## Atenção ao AI Act
 
@@ -34,6 +35,16 @@ página de bloqueio disfarçada de PDF e foram descartadas.
 
 ## Arquivos `.md` (extração de texto)
 
-Os arquivos `.md` de mesmo nome dos PDFs são **extração de texto feita pelo Leonardo** a partir do PDF
+Os arquivos `.md` de mesmo nome dos PDFs são **extração de texto** feita a partir do PDF
 correspondente. Servem para busca, leitura e citação rápida; **não substituem o PDF oficial** — em caso
 de divergência, vale o PDF.
+
+## Por que o RGPD está aqui
+
+Não é norma de plataformas, mas é o regulamento que **define perfilamento** (art. 4º, item 4) — e o DSA
+art. 38 remete expressamente a essa definição ao exigir uma opção de recomendação "não baseada em
+perfilamento". Sem o RGPD no acervo, o dispositivo europeu fica sem termo de referência.
+
+Trecho (em inglês, art. 4º, item 4): "'profiling' means any form of automated processing of personal data
+consisting of the use of personal data to evaluate certain personal aspects relating to a natural
+person…"
