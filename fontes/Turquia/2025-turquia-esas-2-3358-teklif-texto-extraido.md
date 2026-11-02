@@ -10,7 +10,7 @@ adjuntas — Adalet e Dijital Mecralar · **Distribuição:** 10/11/2025
 **Fonte:** `cdn.tbmm.gov.tr` (documento oficial, id 5b8d2dc6-9dee-41e8-98c6-ee5b28ca9608)
 
 > **Aviso de método:** o PDF oficial é digitalização sem camada de texto (tesseract não extraiu nada).
-> Este arquivo é a **extração feita pelo Leonardo** a partir desse PDF. Serve para estudo e para
+> Este arquivo é a **extração de texto** feita a partir desse PDF. Serve para estudo e para
 > localizar dispositivo; **conferir o original antes de citar em peça formal**.
 
 ---

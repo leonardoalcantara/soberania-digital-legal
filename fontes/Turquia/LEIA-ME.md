@@ -6,7 +6,7 @@ Todos em comissão em 30/10/2026. **Nenhum foi convertido em lei** — não há 
 |---|---|---|---|
 | `2024-turquia-esas-2-2234-teklif.pdf` | 2/2234 | Gergerlioğlu, 24/06/2024 | **Bom** — 14 p., camada de texto íntegra |
 | `2025-turquia-esas-2-3358-teklif.pdf` | 2/3358 | Öztürk, 07/11/2025 | PDF oficial, digitalização sem texto |
-| `2025-turquia-esas-2-3358-teklif-texto-extraido.md` | 2/3358 | idem | **Extração do Leonardo** — articulado completo (MADDE 1 a 11) + justificativa |
+| `2025-turquia-esas-2-3358-teklif-texto-extraido.md` | 2/3358 | idem | **Extração de texto** — articulado completo (MADDE 1 a 11) + justificativa |
 | `2025-turquia-esas-2-3404-protocolo.pdf` | 2/3404 | Özdemir, 24/11/2025 | Parcial — capa de protocolo, OCR ruim |
 | `2026-turquia-esas-2-3744-teklif.pdf` | 2/3744 | Türkkan, 25/06/2026 | Parcial — 8 p., texto imperfeito |
 
