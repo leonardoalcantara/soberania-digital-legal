@@ -8,9 +8,7 @@
 
 ## 1. O que a proposta é
 
-Não regular o conteúdo, mas o **mecanismo que prolonga o uso**: reprodução automática, rolagem infinita,
-notificações de reengajamento, recompensas por tempo de uso. E, junto, fixar limites de tempo e bloqueios
-de horário para menores.
+Não regular o conteúdo, mas o **mecanismo que prolonga o uso**: reprodução automática, rolagem infinita, notificações de reengajamento, recompensas por tempo de uso. E, junto, fixar limites de tempo e bloqueios de horário para menores.
 
 É a regulação que incide sobre o **produto**, não sobre a fala.
 
@@ -29,8 +27,7 @@ de horário para menores.
 
 A AB 1709 define "recurso viciante" como:
 
-> "qualquer dos seguintes recursos psicologicamente exploratórios destinados a maximizar o engajamento que
-> previsivelmente levem ao uso compulsivo…"
+> "qualquer dos seguintes recursos psicologicamente exploratórios destinados a maximizar o engajamento que previsivelmente levem ao uso compulsivo…"
 
 E proíbe fornecê-los a usuário menor de 16 anos, **sem qualquer rota de consentimento parental**.
 
@@ -42,11 +39,7 @@ Fonte: `fontes/EUA/2026-ca-ab1709-feed-algoritmico-menores.md`
 
 Lei nº 15.211/2025, art. 17, § 4º:
 
-> "As configurações-padrão das ferramentas de supervisão parental deverão adotar o mais alto nível de
-> proteção disponível, assegurados, no mínimo: … II — limitação de recursos para aumentar, sustentar ou
-> estender artificialmente o uso do produto ou serviço pela criança ou pelo adolescente, como
-> **reprodução automática de mídia, recompensas pelo tempo de uso, notificações** e outros recursos que
-> possam resultar em uso excessivo…"
+> "As configurações-padrão das ferramentas de supervisão parental deverão adotar o mais alto nível de proteção disponível, assegurados, no mínimo: … II — limitação de recursos para aumentar, sustentar ou estender artificialmente o uso do produto ou serviço pela criança ou pelo adolescente, como **reprodução automática de mídia, recompensas pelo tempo de uso, notificações** e outros recursos que possam resultar em uso excessivo…"
 
 Fonte: `fontes/Brasil/2025-lei-15211-ECA-Digital - texto.md`
 
@@ -65,8 +58,7 @@ Fonte: `fontes/UE/2026-proposta-ue-eu-kids-act.pdf`
 
 **Existe:**
 
-- **Lei 15.211/2025, art. 17, § 4º** — configurações-padrão de supervisão parental com limitação de
-  autoplay, recompensas por tempo e notificações.
+- **Lei 15.211/2025, art. 17, § 4º** — configurações-padrão de supervisão parental com limitação de autoplay, recompensas por tempo e notificações.
 - **Art. 18** — deveres das ferramentas de supervisão parental.
 - **Art. 20** — vedação de caixas de recompensa (loot boxes) a menores.
 
@@ -75,8 +67,7 @@ Fonte: `fontes/UE/2026-proposta-ue-eu-kids-act.pdf`
 1. **Proibição** de recursos viciantes — o Brasil só exige que venham desligados.
 2. **Limite de tempo de uso** fixado em lei. Não há.
 3. **Bloqueio noturno.** Não há.
-4. **Aplicação a usuários que não usam ferramenta de supervisão.** A regra brasileira depende de o
-   responsável ativar a ferramenta.
+4. **Aplicação a usuários que não usam ferramenta de supervisão.** A regra brasileira depende de o responsável ativar a ferramenta.
 
 ---
 
@@ -94,8 +85,7 @@ Fonte: `fontes/UE/2026-proposta-ue-eu-kids-act.pdf`
 cuja família não configura nada continua exposto. A regra protege quem já estava protegido.
 
 **O ponto de risco do modelo californiano:** proibir o recurso sem rota de consentimento é restrição de
-produto — e deve ser testada em tribunal, como já ocorreu com outras leis californianas de proteção de
-menores.
+produto — e deve ser testada em tribunal, como já ocorreu com outras leis californianas de proteção de menores.
 
 ---
 
@@ -113,8 +103,7 @@ menores.
 
 ## 6. Lacunas de pesquisa
 
-1. Não há, no acervo, dado sobre **quantos menores** no Brasil usam ferramentas de supervisão parental —
-   sem isso, não se sabe o alcance real do modelo brasileiro.
+1. Não há, no acervo, dado sobre **quantos menores** no Brasil usam ferramentas de supervisão parental — sem isso, não se sabe o alcance real do modelo brasileiro.
 2. Não verifiquei se o Decreto 12.880/2026 detalha os recursos do art. 17, § 4º, II.
 3. Não há decisão judicial sobre a AB 1709 — a vigência começa em 01/01/2027.
 

@@ -8,15 +8,12 @@
 
 ## 1. Formulação
 
-O texto original traz apenas o título: "Comitê de Soberania Digital". O que se sabe do contexto é a
-intenção declarada — um comitê **formado pela sociedade civil**, e não apenas por governo.
+O texto original traz apenas o título: "Comitê de Soberania Digital". O que se sabe do contexto é a intenção declarada — um comitê **formado pela sociedade civil**, e não apenas por governo.
 
 Duas perguntas que o título não responde e que decidem o desenho:
 
-1. **Deliberativo ou consultivo?** Um comitê que só opina não muda nada; um que decide precisa de
-   mandato, quórum e responsabilidade.
-2. **Quem compõe?** "Sociedade civil" pode significar desde ONGs até entidades empresariais — a
-   composição define o resultado.
+1. **Deliberativo ou consultivo?** Um comitê que só opina não muda nada; um que decide precisa de mandato, quórum e responsabilidade.
+2. **Quem compõe?** "Sociedade civil" pode significar desde ONGs até entidades empresariais — a composição define o resultado.
 
 ---
 
@@ -34,12 +31,9 @@ Duas perguntas que o título não responde e que decidem o desenho:
 
 Decreto nº 11.856/2023, art. 6º:
 
-> "Ao CNCiber compete: I — propor atualizações para a PNCiber, a Estratégia Nacional de Cibersegurança e
-> o Plano Nacional de Cibersegurança; II — avaliar e propor medidas para incremento da segurança
-> cibernética no País…"
+> "Ao CNCiber compete: I — propor atualizações para a PNCiber, a Estratégia Nacional de Cibersegurança e o Plano Nacional de Cibersegurança; II — avaliar e propor medidas para incremento da segurança cibernética no País…"
 
-E o art. 7º compõe o Comitê por representantes de órgãos e entidades — **todos públicos**. O art. 8º
-ainda submete as deliberações à Câmara de Relações Exteriores e Defesa Nacional.
+E o art. 7º compõe o Comitê por representantes de órgãos e entidades — **todos públicos**. O art. 8º ainda submete as deliberações à Câmara de Relações Exteriores e Defesa Nacional.
 
 Fonte: `fontes/Brasil/2023-decreto-11856-pnciber.md`
 
@@ -47,14 +41,11 @@ Fonte: `fontes/Brasil/2023-decreto-11856-pnciber.md`
 
 ### União Europeia — o modelo de autoridade com poder
 
-O DSA cria a figura do **Coordenador de Serviços Digitais** em cada Estado-membro, com poderes de
-investigação e sanção, e reserva à Comissão a competência sobre as plataformas de muito grande porte.
-As multas chegam a **6% do faturamento mundial** (art. 74).
+O DSA cria a figura do **Coordenador de Serviços Digitais** em cada Estado-membro, com poderes de investigação e sanção, e reserva à Comissão a competência sobre as plataformas de muito grande porte. As multas chegam a **6% do faturamento mundial** (art. 74).
 
 Fonte: `fontes/UE/2022-regulamento-ue-2022-2065-dsa.pdf`
 
-**Não há, no modelo europeu, órgão de sociedade civil com poder de decisão.** A participação social
-aparece em consultas e em códigos de conduta — não na instância que sanciona.
+**Não há, no modelo europeu, órgão de sociedade civil com poder de decisão.** A participação social aparece em consultas e em códigos de conduta — não na instância que sanciona.
 
 ---
 
@@ -72,27 +63,19 @@ aparece em consultas e em códigos de conduta — não na instância que sancion
 
 1. **Qualquer órgão com competência sobre plataformas fora do período eleitoral.** Não há.
 2. **Participação da sociedade civil em instância decisória** sobre conteúdo e distribuição.
-3. **Mandato definido** para uma autoridade de soberania digital — os órgãos existentes têm
-   competências setoriais que se sobrepõem.
+3. **Mandato definido** para uma autoridade de soberania digital — os órgãos existentes têm competências setoriais que se sobrepõem.
 4. **Registro público de plataformas** com dados de controle societário.
 
 ---
 
 ## 4. O que a comparação revela
 
-**O desenho brasileiro tem uma lacuna de espécie, não de grau.** Existem reguladores setoriais fortes
-(ANPD, Cade, Anatel) e um comitê intergovernamental consultivo (CNCiber) — mas nenhuma instância que
-olhe o conjunto.
+**O desenho brasileiro tem uma lacuna de espécie, não de grau.** Existem reguladores setoriais fortes (ANPD, Cade, Anatel) e um comitê intergovernamental consultivo (CNCiber) — mas nenhuma instância que olhe o conjunto.
 
-**A participação social é o ponto mais frágil da proposta.** Nenhuma jurisdição do acervo dá poder
-decisório a órgão de sociedade civil. O que existe é: (a) composição multissetorial consultiva (CGI.br,
-Brasil); (b) consulta pública obrigatória antes de regulamento (UE); (c) códigos de conduta negociados
-com o setor (DSA).
+**A participação social é o ponto mais frágil da proposta.** Nenhuma jurisdição do acervo dá poder decisório a órgão de sociedade civil. O que existe é: (a) composição multissetorial consultiva (CGI.br, Brasil); (b) consulta pública obrigatória antes de regulamento (UE); (c) códigos de conduta negociados com o setor (DSA).
 
 **Onde a proposta pode ser original com baixo risco:** replicar o modelo CGI.br — composição
-multissetorial, processo de escolha próprio — mas **com competência deliberativa limitada** (aprovar
-códigos, recomendar sanção), deixando a decisão sancionatória para autoridade estatal. Isso preserva a
-participação sem criar órgão híbrido sem responsabilidade.
+multissetorial, processo de escolha próprio — mas **com competência deliberativa limitada** (aprovar códigos, recomendar sanção), deixando a decisão sancionatória para autoridade estatal. Isso preserva a participação sem criar órgão híbrido sem responsabilidade.
 
 ---
 
@@ -110,8 +93,7 @@ participação sem criar órgão híbrido sem responsabilidade.
 
 ## 6. Lacunas de pesquisa
 
-1. **O CGI.br não está no acervo** — o modelo brasileiro multissetorial precisa ser estudado em fonte
-   primária (Decreto 4.829/2003 e regimento) antes de ser usado como precedente.
+1. **O CGI.br não está no acervo** — o modelo brasileiro multissetorial precisa ser estudado em fonte primária (Decreto 4.829/2003 e regimento) antes de ser usado como precedente.
 2. Não verifiquei como o DSA trata participação de sociedade civil em códigos de conduta (arts. 44 a 46).
 3. Não há, no acervo, avaliação de eficácia de comitês multissetoriais em matéria de plataformas.
 

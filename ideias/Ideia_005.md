@@ -10,24 +10,16 @@
 
 **Original 5 (engajamento estrangeiro):**
 
-> "No caso do usuário optar pela linha do tempo priorizada o algoritmo de priorização deve desconsiderar
-> para efeito de cálculo de relevância o engajamento obtido pela postagem de usuários de fora do país.
-> Para tal efeito, a plataforma deve utilizando técnicas de geolocalização e informações de topologia de
-> rede, identificar a origem do usuário."
+> "No caso do usuário optar pela linha do tempo priorizada o algoritmo de priorização deve desconsiderar para efeito de cálculo de relevância o engajamento obtido pela postagem de usuários de fora do país. Para tal efeito, a plataforma deve utilizando técnicas de geolocalização e informações de topologia de rede, identificar a origem do usuário."
 
 **Original 6 (anti-bots):**
 
-> "A plataforma deve publicar uma política de combate a produção de conteúdo e engajamento falseado
-> utilizando-se bots. Anualmente a plataforma deve revisar esta política e publicar as métricas de
-> sucesso da aplicação da mesma no ciclo anterior."
+> "A plataforma deve publicar uma política de combate a produção de conteúdo e engajamento falseado utilizando-se bots. Anualmente a plataforma deve revisar esta política e publicar as métricas de sucesso da aplicação da mesma no ciclo anterior."
 >
-> "É permitido que a plataforma faculte aos usuários a utilização de bots… Tais bots devem estar
-> sinalizados dentro da plataforma… Quaisquer engajamentos gerados por estes bots devem ser
-> desconsiderados para qualquer efeito de priorização do algoritmo."
+> "É permitido que a plataforma faculte aos usuários a utilização de bots… Tais bots devem estar sinalizados dentro da plataforma… Quaisquer engajamentos gerados por estes bots devem ser desconsiderados para qualquer efeito de priorização do algoritmo."
 
 **Por que aglutinadas:** as duas tratam do mesmo objeto — a **validade do sinal que alimenta a
-priorização**. Uma ataca a origem geográfica do engajamento; a outra, a origem automatizada. O
-instrumento é o mesmo: excluir do cálculo o sinal espúrio e documentar a política.
+priorização**. Uma ataca a origem geográfica do engajamento; a outra, a origem automatizada. O instrumento é o mesmo: excluir do cálculo o sinal espúrio e documentar a política.
 
 ---
 
@@ -44,15 +36,11 @@ instrumento é o mesmo: excluir do cálculo o sinal espúrio e documentar a pol�
 
 Resolução TSE nº 23.755/2026, art. 38-A:
 
-> "A remoção de perfil será feita quando se tratar de usuário comprovadamente falso, apócrifo ou
-> vinculado a pessoa que sequer exista fora do universo digital (**perfil automatizado ou robô**), cujas
-> publicações configurem a reiterada prática: I — de crime eleitoral; II — de publicação de fatos
-> notoriamente inverídicos…"
+> "A remoção de perfil será feita quando se tratar de usuário comprovadamente falso, apócrifo ou vinculado a pessoa que sequer exista fora do universo digital (**perfil automatizado ou robô**), cujas publicações configurem a reiterada prática: I — de crime eleitoral; II — de publicação de fatos notoriamente inverídicos…"
 
 E o § 2º limita a atuação da plataforma:
 
-> "É permitida a exclusão pelos provedores de aplicação **apenas** nas hipóteses de perfis falsos,
-> automatizados ou robô."
+> "É permitida a exclusão pelos provedores de aplicação **apenas** nas hipóteses de perfis falsos, automatizados ou robô."
 
 Fonte: `fontes/Brasil/2026-resolucao-tse-23755-Resolução TSE 23.755 - texto.md`
 
@@ -60,17 +48,13 @@ Fonte: `fontes/Brasil/2026-resolucao-tse-23755-Resolução TSE 23.755 - texto.md
 
 Provisões sobre contas públicas (2021), art. 12:
 
-> "A plataforma deve estabelecer mecanismo de monitoramento e avaliação de contas públicas, prevenindo
-> **fraude em dados** como número de assinantes, atenção de usuários, taxa de cliques e volume de
-> compartilhamentos e comentários."
+> "A plataforma deve estabelecer mecanismo de monitoramento e avaliação de contas públicas, prevenindo **fraude em dados** como número de assinantes, atenção de usuários, taxa de cliques e volume de compartilhamentos e comentários."
 
 Fonte: `fontes/China/2021-provisoes-contas-publicas-pt.md`
 
 Notificação de 2023, ponto 10:
 
-> "Os seguidores obtidos por 'self-media' em razão de conduta infratora devem ser verificados e
-> eliminados tempestivamente pela plataforma. Durante o silenciamento, o 'self-media' não pode ganhar
-> novos seguidores… As plataformas não podem oferecer serviço de transferência de seguidores."
+> "Os seguidores obtidos por 'self-media' em razão de conduta infratora devem ser verificados e eliminados tempestivamente pela plataforma. Durante o silenciamento, o 'self-media' não pode ganhar novos seguidores… As plataformas não podem oferecer serviço de transferência de seguidores."
 
 Fonte: `fontes/China/2023-notificacao-automidia-pt.md`
 
@@ -83,40 +67,29 @@ métrica que alimenta a priorização — e não apenas o conteúdo.
 
 **Existe:**
 
-- **TSE 23.755/2026, art. 38-A** — remoção de perfil falso ou robô, com dois limites: só na hipótese de
-  prática reiterada e só em contexto eleitoral.
-- **Lei 9.504/1997, art. 57-H, §§ 1º e 2º** — criminaliza a contratação de grupo de pessoas para emitir
-  mensagens contra candidato ("milícia digital").
+- **TSE 23.755/2026, art. 38-A** — remoção de perfil falso ou robô, com dois limites: só na hipótese de prática reiterada e só em contexto eleitoral.
+- **Lei 9.504/1997, art. 57-H, §§ 1º e 2º** — criminaliza a contratação de grupo de pessoas para emitir mensagens contra candidato ("milícia digital").
 - **Marco Civil, art. 15** — guarda de registros de acesso, que permite rastrear origem de acessos.
 
 **Falta:**
 
-1. **Nenhuma regra sobre engajamento estrangeiro.** Não existe, no direito brasileiro, nada que trate da
-   origem geográfica do sinal de relevância.
+1. **Nenhuma regra sobre engajamento estrangeiro.** Não existe, no direito brasileiro, nada que trate da origem geográfica do sinal de relevância.
 2. **Política anti-bots obrigatória e pública**, com métricas anuais — não há.
-3. **Selo de automação** para bots legítimos — a Resolução do TSE autoriza exclusão de robôs, mas não
-   cria registro nem rotulagem de automação declarada.
+3. **Selo de automação** para bots legítimos — a Resolução do TSE autoriza exclusão de robôs, mas não cria registro nem rotulagem de automação declarada.
 4. **Consequência fora do período eleitoral** — toda a matéria é eleitoral.
 
 ---
 
 ## 4. O que a comparação revela
 
-**A parte sobre engajamento estrangeiro não tem precedente em nenhuma jurisdição do acervo.** É a
-proposta mais original das duas — e a de maior risco técnico.
+**A parte sobre engajamento estrangeiro não tem precedente em nenhuma jurisdição do acervo.** É a proposta mais original das duas — e a de maior risco técnico.
 
 Dois problemas concretos, que o texto precisa enfrentar:
 
-1. **Atribuição de origem é frágil.** VPN, CDN, nós de borda e bots tornam "usuário do exterior" um
-   critério difícil de provar. A própria formulação reconhece isso ao exigir geolocalização e topologia
-   de rede — mas essas técnicas são falíveis e a norma transferiria o ônus da prova para a plataforma.
-2. **O incentivo é perverso.** Se engajamento estrangeiro não conta, comprar engajamento no exterior
-   deixa de ter efeito — mas também deixa de ser detectável como anomalia, porque a plataforma não
-   precisa mais medi-lo.
+1. **Atribuição de origem é frágil.** VPN, CDN, nós de borda e bots tornam "usuário do exterior" um critério difícil de provar. A própria formulação reconhece isso ao exigir geolocalização e topologia de rede — mas essas técnicas são falíveis e a norma transferiria o ônus da prova para a plataforma.
+2. **O incentivo é perverso.** Se engajamento estrangeiro não conta, comprar engajamento no exterior deixa de ter efeito — mas também deixa de ser detectável como anomalia, porque a plataforma não precisa mais medi-lo.
 
-**A parte sobre bots tem precedente sólido** — chinês, no desenho; brasileiro-eleitoral, na sanção. E o
-ponto do Leonardo que nenhum dos dois tem: **permitir bots legítimos com selo**. É a distinção que
-resolve o problema de atingir automação benéfica (alertas públicos, monitoramento de transparência).
+**A parte sobre bots tem precedente sólido** — chinês, no desenho; brasileiro-eleitoral, na sanção. E o ponto do Leonardo que nenhum dos dois tem: **permitir bots legítimos com selo**. É a distinção que resolve o problema de atingir automação benéfica (alertas públicos, monitoramento de transparência).
 
 ---
 
@@ -136,15 +109,12 @@ resolve o problema de atingir automação benéfica (alertas públicos, monitora
 
 1. **Não há dado público no acervo** sobre quanto do engajamento em circulação no Brasil vem do exterior.
 2. Não verifiquei se a China aplica a regra de métricas a plataformas estrangeiras.
-3. Não há, no acervo, nenhuma norma que trate de **selo de automação** — a proposta seria inédita nesse
-   ponto específico.
+3. Não há, no acervo, nenhuma norma que trate de **selo de automação** — a proposta seria inédita nesse ponto específico.
 
 ---
 
 ## 7. Perguntas abertas
 
-1. A vedação de contabilizar engajamento externo vale **só para priorização** ou também para números
-   públicos de curtidas e compartilhamentos?
-2. Quem define o que é "engajamento do exterior" — a plataforma, com metodologia declarada, ou o
-   regulador?
+1. A vedação de contabilizar engajamento externo vale **só para priorização** ou também para números públicos de curtidas e compartilhamentos?
+2. Quem define o que é "engajamento do exterior" — a plataforma, com metodologia declarada, ou o regulador?
 3. O selo de bot é obrigatório para toda automação, ou só para a que interage com usuários?

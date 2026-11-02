@@ -8,9 +8,7 @@
 
 ## 1. O que a proposta é
 
-Nas horas finais da campanha — quando não há mais tempo hábil para desmentir — veda-se a circulação de
-conteúdo sintético que use imagem ou voz de candidato. Não é regra permanente: é uma **suspensão
-temporária** de uma categoria de conteúdo, num intervalo definido.
+Nas horas finais da campanha — quando não há mais tempo hábil para desmentir — veda-se a circulação de conteúdo sintético que use imagem ou voz de candidato. Não é regra permanente: é uma **suspensão temporária** de uma categoria de conteúdo, num intervalo definido.
 
 É a única proposta do acervo que usa **tempo** como instrumento de regulação.
 
@@ -28,12 +26,7 @@ temporária** de uma categoria de conteúdo, num intervalo definido.
 
 Resolução TSE nº 23.755/2026, art. 9º-B, § 3º-A:
 
-> "Ficam vedadas a publicação e a republicação, ainda que gratuitas, bem como o impulsionamento pago de
-> novos conteúdos sintéticos produzidos ou alterados por inteligência artificial ou por tecnologias
-> equivalentes que utilizem imagem, voz ou manifestação de candidata ou candidato ou de pessoa pública,
-> mesmo que rotulados e em conformidade com as demais exigências deste artigo, no período compreendido
-> entre as **72 (setenta e duas) horas que antecedem e as 24 (vinte e quatro) horas que sucedem o término
-> do pleito**."
+> "Ficam vedadas a publicação e a republicação, ainda que gratuitas, bem como o impulsionamento pago de novos conteúdos sintéticos produzidos ou alterados por inteligência artificial ou por tecnologias equivalentes que utilizem imagem, voz ou manifestação de candidata ou candidato ou de pessoa pública, mesmo que rotulados e em conformidade com as demais exigências deste artigo, no período compreendido entre as **72 (setenta e duas) horas que antecedem e as 24 (vinte e quatro) horas que sucedem o término do pleito**."
 
 Fonte: `fontes/Brasil/2026-resolucao-tse-23755-Resolução TSE 23.755 - texto.md`
 
@@ -45,9 +38,7 @@ Três detalhes que fazem a regra funcionar:
 
 ### Estados Unidos — o precedente que caiu
 
-A lei californiana AB 2839, que restringia deepfake eleitoral, foi **permanentemente vedada** por
-inconstitucionalidade em 29/08/2025 (E.D. Cal.). A Califórnia recorreu de outro ponto, mas **não recorreu
-da decisão que derrubou a AB 2839**.
+A lei californiana AB 2839, que restringia deepfake eleitoral, foi **permanentemente vedada** por inconstitucionalidade em 29/08/2025 (E.D. Cal.). A Califórnia recorreu de outro ponto, mas **não recorreu da decisão que derrubou a AB 2839**.
 
 Fonte: `pesquisa/noticias/tema-ia.md` (secundária — o texto da decisão não está no acervo)
 
@@ -57,18 +48,15 @@ Fonte: `pesquisa/noticias/tema-ia.md` (secundária — o texto da decisão não 
 
 **Existe:**
 
-- **Res. TSE 23.755/2026, art. 9º-B, § 3º-A** — a janela de 72h/24h, vigente e aplicável às eleições de
-  2026.
+- **Res. TSE 23.755/2026, art. 9º-B, § 3º-A** — a janela de 72h/24h, vigente e aplicável às eleições de 2026.
 - **Art. 9º-B, caput** — rotulagem obrigatória de conteúdo sintético em propaganda.
 - **Art. 9º-I** — inversão do ônus da prova em representações sobre conteúdo sintético.
 - **Código Eleitoral, art. 323** — crime de divulgação de fatos inverídicos na campanha.
 
 **Falta:**
 
-1. **Base legal permanente.** A janela existe por resolução do TSE, não por lei — e resolução pode ser
-   alterada por outra resolução.
-2. **Regra fora do período eleitoral.** Não há nada equivalente para conteúdo sintético sobre políticas
-   públicas ou sobre pessoas públicas fora da eleição.
+1. **Base legal permanente.** A janela existe por resolução do TSE, não por lei — e resolução pode ser alterada por outra resolução.
+2. **Regra fora do período eleitoral.** Não há nada equivalente para conteúdo sintético sobre políticas públicas ou sobre pessoas públicas fora da eleição.
 3. **Definição legal de deepfake**, que hoje só existe em ato infralegal.
 
 ---
@@ -81,12 +69,10 @@ Fonte: `pesquisa/noticias/tema-ia.md` (secundária — o texto da decisão não 
 restrição temporal a conteúdo já operou em eleição real.
 
 **Contra:** o precedente americano mostra o risco. Uma vedação de circulação de conteúdo — ainda que por
-tempo curto e ainda que limitada a conteúdo sintético — é restrição de expressão e será testada sob
-proporcionalidade.
+tempo curto e ainda que limitada a conteúdo sintético — é restrição de expressão e será testada sob proporcionalidade.
 
 **O que a distingue da lei californiana derrubada:** a janela brasileira é **estreita e finalista** —
-72 horas antes e 24 depois, no momento em que o desmentido é ineficaz. Restrições amplas durante toda a
-campanha foram as que caíram.
+72 horas antes e 24 depois, no momento em que o desmentido é ineficaz. Restrições amplas durante toda a campanha foram as que caíram.
 
 ---
 
@@ -113,6 +99,5 @@ campanha foram as que caíram.
 ## 7. Perguntas abertas
 
 1. A janela vale só para candidatos ou também para "pessoa pública", como no texto atual?
-2. A vedação alcança conteúdo **rotulado**? O TSE decidiu que sim — é o ponto mais agressivo e o mais
-   exposto.
+2. A vedação alcança conteúdo **rotulado**? O TSE decidiu que sim — é o ponto mais agressivo e o mais exposto.
 3. A regra vai para lei, ou permanece em resolução do TSE?
