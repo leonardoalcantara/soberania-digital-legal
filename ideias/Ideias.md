@@ -1,32 +1,22 @@
 # Ideias a serem implementadas
 
-#### Para fins destas propostas definimos:
+#### Definições
 
-- Usuário: aquele que se cadastra em uma rede social para consumir e/ou produzir conteúdo, interagindo com os demais usuários por meio de ações permitidas pela plataforma.
-- Postagem: Uma unidade de conteúdo produzido que pode consistir de texto, foto, vídeo, áudio ou uma combinação destes.
-- Linha do Tempo: é a lista sequêncial de postagens que são apresentadas progressivamente ao usuário a medida que este usa a rede social
-- Engajar: ato de consumir conteúdo e realizar ações de interação com o produtor do conteúdo e outros usuários em uma postagem.
-- Entrega orgânica: entrega de postagens na linha do tempo do usuário que acontece apenas devido ao conteúdo ter sido produzido ou engajado por outro usuário que é seguido pelo primeiro.
-- Impulsionamento: entrega de postagem na linha do tempo do usuário que acontece devido ao pagamento a plataforma para que esta amplie o alcance para além do orgânico da referida postagem.
-- Linha do tempo cronológica: linha do tempo do usuário que recebe as postagens na ordem em que as mesmas vão sendo criadas
-- Linha do tempo priorizada: linha do tempo em que a plataforma utiliza um algoritmo para definir quais postagens e em que ordem são apresentadas ao usuário.
+Os termos usados nas propostas — usuário, postagem, linha do tempo, engajar, entrega orgânica, impulsionamento, monetização, medida sancionatória, perfil politicamente relacionado, principal estrangeiro e os demais — estão definidos em [[Glossário]].
+
+**Consultar o glossário antes de ler qualquer ideia.** É lá que ficam a definição de cada termo, a indicação de quais propostas o usam e a marcação do que ainda depende de decisão.
 
 ---
 
 ## Como este arquivo funciona
 
-Cada ideia tem **um arquivo próprio** (`Ideia_001.md`, `Ideia_002.md`...) com as referências
-legislativas dos países que já trataram do tema. Aqui fica só a entrada: número, título, uma frase e o
-link.
+Cada ideia tem **um arquivo próprio** (`Ideia_001.md`, `Ideia_002.md`...) com as referências legislativas dos países que já trataram do tema. Aqui fica só a entrada: número, título, uma frase e o link.
 
-Ideias parecidas foram **aglutinadas** numa proposta só. Por isso o número de entradas é maior que as
-oito originais: cinco delas foram desdobradas em mais de uma proposta, e treze propostas novas vieram do
-levantamento comparado.
+Ideias parecidas foram **aglutinadas** numa proposta só. Por isso o número de entradas é maior que as oito originais: cinco delas foram desdobradas em mais de uma proposta, e treze propostas novas vieram do levantamento comparado.
 
 **Legenda de estado:** `✔` arquivo escrito · `·` a escrever
 
-Os problemas que a comparação **não** resolve — e que uma proposta precisa enfrentar antes de virar texto
-— ficam em [[questões em aberto]], não aqui.
+Os problemas que a comparação **não** resolve — e que uma proposta precisa enfrentar antes de virar texto — ficam em [[questões em aberto]], não aqui.
 
 ---
 
@@ -87,6 +77,4 @@ Os problemas que a comparação **não** resolve — e que uma proposta precisa 
 
 ## O que as propostas novas trazem
 
-As treze acrescentadas (**008 a 020**) não estavam na lista original e vieram de dispositivos que já
-existem em outros países — são as que têm maior chance de serem consideradas "já testadas" em debate
-legislativo, porque há texto e, em alguns casos, aplicação.
+As treze acrescentadas (**008 a 020**) não estavam na lista original e vieram de dispositivos que já existem em outros países — são as que têm maior chance de serem consideradas "já testadas" em debate legislativo, porque há texto e, em alguns casos, aplicação.
