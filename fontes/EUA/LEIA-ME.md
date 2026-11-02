@@ -8,6 +8,7 @@
 | `2026-ca-ab1043-verificacao-idade.md` | Califórnia — AB 1043 (Digital Age Assurance Act) | — | **Lei**, vigência 01/01/2027 |
 | `2025-ny-raise-act-S6953.md` | Nova York — RAISE Act (S 6953-B) | — | **Lei** sancionada em 19/12/2025, vigência prevista 01/01/2027 |
 | `2026-tx-sb2420-app-store.md` | Texas — SB 2420 (App Store Accountability Act) | — | **Lei** exigível desde 06/07/2026 (Suprema Corte negou suspensão) |
+| `2026-acordo-meta-51-procuradores-gerais-consent-judgment.pdf` | Acordo Meta × 51 procuradores-gerais — *Settlement Agreement*, caso 4:23-cv-05448-YGR (N.D. Cal.), Doc. 572-1 | 404 p. (130 p. de acordo + anexos) | Proposto em 26/08/2026; sujeito a *consent judgment* |
 
 ## Observações
 
@@ -16,3 +17,7 @@
   e convertidos para Markdown; a formatação do site foi removida, o texto não.
 - O KIDS Act está na versão **aprovada pela Câmara**, que removeu o dever de cuidado que existia no
   texto original. Ao citar "o KIDS Act", dizer qual versão.
+- O acordo Meta × procuradores-gerais **não é lei**: é acordo executado, pendente de homologação. Citar
+  por seção do *Settlement Agreement* (ex.: Seção II, "Feed Options"), não por "a lei americana".
+  A definição de "Non-Personalized Feed" está na Seção I, alínea OO — e é mais forte do que o nome sugere:
+  contas seguidas ou amigas, em ordem cronológica.
