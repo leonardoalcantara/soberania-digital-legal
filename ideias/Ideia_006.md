@@ -74,8 +74,7 @@ Fonte: `fontes/UE/2022-regulamento-ue-2022-2065-dsa.pdf`
 
 **A participação social é o ponto mais frágil da proposta.** Nenhuma jurisdição do acervo dá poder decisório a órgão de sociedade civil. O que existe é: (a) composição multissetorial consultiva (CGI.br, Brasil); (b) consulta pública obrigatória antes de regulamento (UE); (c) códigos de conduta negociados com o setor (DSA).
 
-**Onde a proposta pode ser original com baixo risco:** replicar o modelo CGI.br — composição
-multissetorial, processo de escolha próprio — mas **com competência deliberativa limitada** (aprovar códigos, recomendar sanção), deixando a decisão sancionatória para autoridade estatal. Isso preserva a participação sem criar órgão híbrido sem responsabilidade.
+**Onde a proposta pode ser original com baixo risco:** replicar o modelo CGI.br — composição multissetorial, processo de escolha próprio — mas **com competência deliberativa limitada** (aprovar códigos, recomendar sanção), deixando a decisão sancionatória para autoridade estatal. Isso preserva a participação sem criar órgão híbrido sem responsabilidade.
 
 ---
 

@@ -46,8 +46,7 @@ As Regras de 2026 criam a categoria de "informação sinteticamente gerada" — 
 
 Fonte: `fontes/India/2026-it-amendment-rules-sgi.pdf`
 
-**Detalhe relevante:** a definição indiana **exclui texto** — só alcança áudio, imagem e vídeo. É uma
-escolha de escopo que o texto brasileiro precisa enfrentar.
+**Detalhe relevante:** a definição indiana **exclui texto** — só alcança áudio, imagem e vídeo. É uma escolha de escopo que o texto brasileiro precisa enfrentar.
 
 ### União Europeia — art. 50 do AI Act
 
@@ -96,8 +95,7 @@ Fonte: `fontes/Brasil/2026-resolucao-tse-23755-Resolução TSE 23.755 - texto.md
 - **Camada:** só a China e a Índia exigem metadado.
 - **Contorno:** só a China pune quem fornece ferramenta para remover o rótulo.
 
-**O problema que o texto precisa resolver:** rótulo visível sozinho é decorativo — o conteúdo sai da
-plataforma e perde a marca. Só a camada de metadado sobrevive à cópia, mas depende de padrão técnico e de cooperação das plataformas.
+**O problema que o texto precisa resolver:** rótulo visível sozinho é decorativo — o conteúdo sai da plataforma e perde a marca. Só a camada de metadado sobrevive à cópia, mas depende de padrão técnico e de cooperação das plataformas.
 
 ---
 

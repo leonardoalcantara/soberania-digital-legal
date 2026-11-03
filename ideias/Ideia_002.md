@@ -70,8 +70,7 @@ Fonte: `fontes/Brasil/1997-lei-9504-Lei das Eleições - texto.md`
 2. **A Austrália decidiu o contrário no ponto específico:** no feed "puro", a publicidade é permitida expressamente. Reguladores que enfrentaram o problema escolheram dar a opção ao usuário, não compor o feed por lei.
 3. **A quota transfere para o legislador uma decisão editorial.** Definir que 80% do que uma pessoa vê deve vir de quem ela segue é uma escolha sobre o que é uma rede social — não apenas sobre segurança.
 
-**Onde a proposta é mais forte:** o segundo parágrafo. Proibir **sugestão de conteúdo de terceiros e de
-perfis a seguir** é regra simples, verificável e sem precedente — e ataca a mesma prática (o feed "descoberta") sem precisar de quota.
+**Onde a proposta é mais forte:** o segundo parágrafo. Proibir **sugestão de conteúdo de terceiros e de perfis a seguir** é regra simples, verificável e sem precedente — e ataca a mesma prática (o feed "descoberta") sem precisar de quota.
 
 ---
 

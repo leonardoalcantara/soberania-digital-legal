@@ -33,8 +33,7 @@ A lei não prescreve qual tecnologia usar. Impõe o resultado:
 
 Fonte: `fontes/Australia/2024-online-safety-minimum-age.pdf`
 
-**Escolha legislativa relevante:** a Austrália deixa o método em aberto e responsabiliza a plataforma
-pelo resultado. É mais flexível e mais difícil de fiscalizar.
+**Escolha legislativa relevante:** a Austrália deixa o método em aberto e responsabiliza a plataforma pelo resultado. É mais flexível e mais difícil de fiscalizar.
 
 ### União Europeia — o modelo de quadro com salvaguardas
 
@@ -44,8 +43,7 @@ A proposta do EU KIDS Act trata verificação de idade como infraestrutura com c
 
 Fonte: `fontes/UE/2026-proposta-ue-eu-kids-act.pdf`
 
-**Diferença em relação à Austrália:** a UE regula o **método** (proporcional, preservador da
-privacidade), não apenas o resultado.
+**Diferença em relação à Austrália:** a UE regula o **método** (proporcional, preservador da privacidade), não apenas o resultado.
 
 ### Califórnia e Texas — o modelo de infraestrutura
 
@@ -65,8 +63,7 @@ Lei nº 15.211/2025 (ECA Digital), art. 9º:
 
 Fonte: `fontes/Brasil/2025-lei-15211-ECA-Digital - texto.md`
 
-**Diferença em relação à Austrália:** a lei brasileira exige verificação **a cada acesso** e veda
-expressamente a autodeclaração; a australiana exige "passos razoáveis" para impedir contas. A brasileira é mais rigorosa no método e, por isso, mais exposta ao argumento de proporcionalidade que derrubou a lei francesa.
+**Diferença em relação à Austrália:** a lei brasileira exige verificação **a cada acesso** e veda expressamente a autodeclaração; a australiana exige "passos razoáveis" para impedir contas. A brasileira é mais rigorosa no método e, por isso, mais exposta ao argumento de proporcionalidade que derrubou a lei francesa.
 
 **Falta:**
 
@@ -80,11 +77,9 @@ expressamente a autodeclaração; a australiana exige "passos razoáveis" para i
 
 **Verificação de idade é o item com maior consenso e maior taxa de invalidação judicial.** Todos os países pesquisados tentaram; a França teve a lei derrubada; nos EUA há liminares em vários Estados.
 
-**A lição transversal:** o que derruba a norma não é exigir idade mínima — é **exigir prova de idade de
-todos os usuários**. Desenhos que funcionam limitam a verificação ao gatilho (conta suspeita, recurso de maioridade) ou concentram no sistema operacional/loja (Califórnia, Texas).
+**A lição transversal:** o que derruba a norma não é exigir idade mínima — é **exigir prova de idade de todos os usuários**. Desenhos que funcionam limitam a verificação ao gatilho (conta suspeita, recurso de maioridade) ou concentram no sistema operacional/loja (Califórnia, Texas).
 
-**Consequência para a proposta:** verificar idade para **conter** acesso é defensável; verificar a idade
-de **toda a população** para liberar acesso é o desenho que cai na França e nos tribunais americanos.
+**Consequência para a proposta:** verificar idade para **conter** acesso é defensável; verificar a idade de **toda a população** para liberar acesso é o desenho que cai na França e nos tribunais americanos.
 
 ---
 

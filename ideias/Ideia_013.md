@@ -28,8 +28,7 @@ Plataforma que atua no Brasil sem estabelecimento aqui precisa ter **domicílio*
 
 Fonte: `fontes/America-Latina/2026-chile-boletin-18362-19-projeto.pdf`
 
-**Dois elementos que fazem a diferença:** o registro é **público** (permite saber quem controla a
-plataforma) e a responsabilidade do representante é **solidária**.
+**Dois elementos que fazem a diferença:** o registro é **público** (permite saber quem controla a plataforma) e a responsabilidade do representante é **solidária**.
 
 ### União Europeia — o modelo mínimo
 
@@ -71,13 +70,11 @@ Fonte: `fontes/Brasil/1997-lei-9504-Lei das Eleições - texto.md`
 
 **É a proposta de menor custo político e maior efeito prático do bloco.** Não proíbe nada, não regula conteúdo, não interfere em modelo de negócio — apenas resolve o problema de **quem se cita** quando a plataforma descumpre uma ordem.
 
-**A vantagem sobre o Marco Civil:** o art. 11, § 2º diz que a lei brasileira se aplica; não diz **a quem**
-se notifica. A consequência é o litígio internacional (carta rogatória, cooperação jurídica).
+**A vantagem sobre o Marco Civil:** o art. 11, § 2º diz que a lei brasileira se aplica; não diz **a quem** se notifica. A consequência é o litígio internacional (carta rogatória, cooperação jurídica).
 
 **O STF já preencheu parte dessa lacuna** — o item 11 da tese do Tema 987 resolve o "a quem se notifica". O que a comparação mostra é que os outros países resolveram isso **em lei**: o art. 13 do DSA (`fontes/UE/2022-regulamento-ue-2022-2065-dsa.pdf`), o art. 54 do AI Act, que exige representante autorizado para fornecedores de modelos de uso geral estabelecidos fora da UE (`fontes/UE/2024-regulamento-ue-2024-1689-ai-act.pdf`), e o art. 36 da Lei-Quadro coreana, que cria o "agente doméstico" e presume que o representado cometeu a violação praticada pelo agente (`fontes/Coreia/2025-framework-act-ai-EN.pdf`). Depender de tese judicial significa depender de composição de tribunal.
 
-**Onde o Chile vai além:** o registro público. Saber quem controla a plataforma é informação que o Brasil
-não tem — nem sobre controle societário, nem sobre representação.
+**Onde o Chile vai além:** o registro público. Saber quem controla a plataforma é informação que o Brasil não tem — nem sobre controle societário, nem sobre representação.
 
 **Custo:** baixo para a plataforma (designar alguém é barato) e alto para o Estado (ganha um citável).
 

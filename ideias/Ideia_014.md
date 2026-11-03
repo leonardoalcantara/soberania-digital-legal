@@ -38,8 +38,7 @@ O projeto 2/3358 (MADDE 3) insere regra de remoção e bloqueio de conteúdo de 
 
 Fonte: `fontes/Turquia/2025-turquia-esas-2-3358-teklif-texto-extraido.md`
 
-**Observação:** é projeto, não lei. E 6 horas é prazo que, na prática, transfere ao setor privado a decisão
-sobre o que é ilícito.
+**Observação:** é projeto, não lei. E 6 horas é prazo que, na prática, transfere ao setor privado a decisão sobre o que é ilícito.
 
 ### Brasil — a remoção sem ordem judicial
 
@@ -75,11 +74,9 @@ As hipóteses do § 4º-A são fechadas: informações falsas sobre o sistema el
 
 **É a proposta que mais depende de detalhe técnico e menos de princípio.** O desenho inteiro está em três escolhas: qual prazo, para qual tipo de pedido e com qual consequência.
 
-**A lição chilena:** prazo curto só é defensável se a urgência estiver **definida em lei**, não deixada ao
-juízo de quem pede. Sem isso, o prazo curto vira regra geral e o setor privado passa a decidir sobre ilicitude.
+**A lição chilena:** prazo curto só é defensável se a urgência estiver **definida em lei**, não deixada ao juízo de quem pede. Sem isso, o prazo curto vira regra geral e o setor privado passa a decidir sobre ilicitude.
 
-**A lição turca:** 6 horas é o limite em que a remoção deixa de ser cumprimento de ordem e passa a ser
-moderação automatizada.
+**A lição turca:** 6 horas é o limite em que a remoção deixa de ser cumprimento de ordem e passa a ser moderação automatizada.
 
 **O modelo brasileiro já tem a peça mais discutida** — remoção sem ordem judicial em hipóteses fechadas — mas só no período eleitoral e por resolução de tribunal.
 

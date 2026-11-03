@@ -43,8 +43,7 @@ Lei nº 15.211/2025, art. 17, § 4º:
 
 Fonte: `fontes/Brasil/2025-lei-15211-ECA-Digital - texto.md`
 
-**Diferença decisiva:** o Brasil não proíbe o recurso — exige que ele venha **desligado por padrão** nas
-ferramentas de supervisão parental. É regulação de configuração, não de existência.
+**Diferença decisiva:** o Brasil não proíbe o recurso — exige que ele venha **desligado por padrão** nas ferramentas de supervisão parental. É regulação de configuração, não de existência.
 
 ### União Europeia — o limite estatutário
 
@@ -81,11 +80,9 @@ Fonte: `fontes/UE/2026-proposta-ue-eu-kids-act.pdf`
 | Limite estatutário de tempo | UE (proposta) | Alcança todos os menores, mas depende de verificação de idade |
 | Proibição do recurso | Califórnia | Alcança todos, e não depende de configuração |
 
-**O ponto cego do modelo brasileiro:** se a limitação está nas ferramentas de supervisão parental, o menor
-cuja família não configura nada continua exposto. A regra protege quem já estava protegido.
+**O ponto cego do modelo brasileiro:** se a limitação está nas ferramentas de supervisão parental, o menor cuja família não configura nada continua exposto. A regra protege quem já estava protegido.
 
-**O ponto de risco do modelo californiano:** proibir o recurso sem rota de consentimento é restrição de
-produto — e deve ser testada em tribunal, como já ocorreu com outras leis californianas de proteção de menores.
+**O ponto de risco do modelo californiano:** proibir o recurso sem rota de consentimento é restrição de produto — e deve ser testada em tribunal, como já ocorreu com outras leis californianas de proteção de menores.
 
 ---
 

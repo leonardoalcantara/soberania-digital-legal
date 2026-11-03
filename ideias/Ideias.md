@@ -12,11 +12,13 @@ Os termos usados nas propostas — usuário, postagem, linha do tempo, engajar, 
 
 Cada ideia tem **um arquivo próprio** (`Ideia_001.md`, `Ideia_002.md`...) com as referências legislativas dos países que já trataram do tema. Aqui fica só a entrada: número, título, uma frase e o link.
 
-Ideias parecidas foram **aglutinadas** numa proposta só. Por isso o número de entradas é maior que as oito originais: cinco delas foram desdobradas em mais de uma proposta, e treze propostas novas vieram do levantamento comparado.
+Ideias parecidas foram **aglutinadas** numa proposta só. Por isso o número de entradas é maior que as oito originais: cinco delas foram desdobradas em mais de uma proposta, e dezoito propostas novas vieram do levantamento comparado e da conversa.
 
 **Legenda de estado:** `✔` arquivo escrito · `·` a escrever
 
 Os problemas que a comparação **não** resolve — e que uma proposta precisa enfrentar antes de virar texto — ficam em [[questões em aberto]], não aqui.
+
+O **plano de execução** — quais propostas servem a qual objetivo, em qual lei cada uma se pendura e o que dá para fazer sem lei nova — está em [[plano-de-execucao|plano de execução]].
 
 ---
 
@@ -54,11 +56,16 @@ Os problemas que a comparação **não** resolve — e que uma proposta precisa 
 | # | Proposta | Resumo | Estado |
 |---|---|---|---|
 | **015** | Responsabilidade do intermediário | Regime de notificação e remoção, com prazo e consequência pelo descumprimento | ✔ [[Ideia_015]] |
-| **016** | Responsabilidade de quem desenvolve e treina IA | Responsabilização autônoma do desenvolvedor, inclusive penal agravada quando o design viabiliza o dano | ✔ [[Ideia_016]] |
+| **016** | Responsabilidade de quem desenvolve e treina IA | Estender a definição de "provedor de aplicações" a quem desenvolve e fornece modelo, arrastando todo o regime existente | ✔ [[Ideia_016]] |
 | **017** | Transparência de datasets e de treinamento | Deveres sobre origem, limpeza, rotulagem e diversidade dos dados de treinamento | ✔ [[Ideia_017]] |
 | **018** | Autopreferência e interoperabilidade | Vedar favorecer serviço próprio e obrigar abertura a terceiros | ✔ [[Ideia_018]] |
 | **019** | Processamento local e hospedagem no país | Exigir que parte do processamento ou da hospedagem ocorra em território nacional | ✔ [[Ideia_019]] |
 | **020** | Plano de conformidade e auditoria independente | Obrigação periódica de demonstrar conformidade, com indicadores e auditor externo | ✔ [[Ideia_020]] |
+| **021** | Monetização de perfis politicamente relacionados | Vedar que perfil político receba dinheiro da plataforma, em qualquer tempo, e destinar o valor a fundo | ✔ [[Ideia_021]] |
+| **022** | Devido processo da moderação | Comunicar toda medida com efeito, duração, fundamento, evidências e origem; assegurar impugnação com prazo e decisão humana | ✔ [[Ideia_022]] |
+| **023** | Transparência da ponderação | Publicar os critérios de recomendação, a direção do efeito de cada um e a ordem de importância | ✔ [[Ideia_023]] |
+| **024** | Responsabilidade objetiva por dano à soberania | Responsabilidade civil objetiva por falha que viabilize dano ao processo político-eleitoral | ✔ [[Ideia_024]] |
+| **025** | Escala de três degraus e executivos | Multa, proibição de propaganda e cancelamento de permissão, com responsabilização pessoal de dirigentes | ✔ [[Ideia_025]] |
 
 ---
 
@@ -77,4 +84,4 @@ Os problemas que a comparação **não** resolve — e que uma proposta precisa 
 
 ## O que as propostas novas trazem
 
-As treze acrescentadas (**008 a 020**) não estavam na lista original e vieram de dispositivos que já existem em outros países — são as que têm maior chance de serem consideradas "já testadas" em debate legislativo, porque há texto e, em alguns casos, aplicação.
+As dezoito acrescentadas (**008 a 025**) não estavam na lista original e vieram de dispositivos que já existem em outros países — são as que têm maior chance de serem consideradas "já testadas" em debate legislativo, porque há texto e, em alguns casos, aplicação.

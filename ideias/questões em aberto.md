@@ -8,11 +8,9 @@ Diferente das "perguntas abertas" de cada `Ideia_XXX.md` (que são de desenho, s
 
 ## A — Assistente de IA e veracidade sobre político em campanha eleitoral
 
-**Situação:** proposta ainda não escrita. Surgiu da pergunta sobre obrigar o provedor de IA, durante a
-campanha, a **abster-se de responder** quando não puder garantir a veracidade de informação sobre político, **encaminhando o usuário** a um buscador ou a outra fonte confiável.
+**Situação:** proposta ainda não escrita. Surgiu da pergunta sobre obrigar o provedor de IA, durante a campanha, a **abster-se de responder** quando não puder garantir a veracidade de informação sobre político, **encaminhando o usuário** a um buscador ou a outra fonte confiável.
 
-**Por que não virou arquivo:** não há precedente no acervo. Nenhuma das outras dez jurisdições tem norma
-específica para assistente de IA em campanha eleitoral — a regra eleitoral sobre IA no acervo é só brasileira, e é de resolução do TSE.
+**Por que não virou arquivo:** não há precedente no acervo. Nenhuma das outras dez jurisdições tem norma específica para assistente de IA em campanha eleitoral — a regra eleitoral sobre IA no acervo é só brasileira, e é de resolução do TSE.
 
 **O que existe de mais próximo** (nenhum resolve o problema):
 
@@ -29,8 +27,7 @@ específica para assistente de IA em campanha eleitoral — a regra eleitoral so
 
 ### A.1 — Quem decide que o provedor "não pode garantir a veracidade"
 
-**O problema:** o dispositivo depende de um juízo de incapacidade. Se esse juízo é do próprio provedor, o
-dever é **autoaferido** e se converte em declaração — a plataforma decide quando está dispensada de responder. Se o juízo é da autoridade, é preciso um **procedimento** (quem pede, com qual fundamento, em qual prazo, com qual recurso), e o acervo não tem modelo disso.
+**O problema:** o dispositivo depende de um juízo de incapacidade. Se esse juízo é do próprio provedor, o dever é **autoaferido** e se converte em declaração — a plataforma decide quando está dispensada de responder. Se o juízo é da autoridade, é preciso um **procedimento** (quem pede, com qual fundamento, em qual prazo, com qual recurso), e o acervo não tem modelo disso.
 
 **O que falta no acervo:** nenhum instrumento comparado atribui a alguém o poder de declarar um sistema
 "incapaz de verificar" um tema. O mais próximo — a unidade de *fact-check* indiana — declara que uma informação **é falsa**, não que o sistema é **incapaz**.
@@ -46,8 +43,7 @@ dever é **autoaferido** e se converte em declaração — a plataforma decide q
 
 ### A.2 — O que é "fonte confiável"
 
-**O problema:** "direcionar a outra fonte confiável" exige que a lei **nomeie** as fontes, e nomear fontes é
-decisão política — não técnica. A lei passa a dizer ao cidadão em quem confiar.
+**O problema:** "direcionar a outra fonte confiável" exige que a lei **nomeie** as fontes, e nomear fontes é decisão política — não técnica. A lei passa a dizer ao cidadão em quem confiar.
 
 **O que o acervo mostra:** a única norma do conjunto que declara oficialmente o que é falso ou enganoso é a
 **unidade de *fact-check* do Governo Central indiano** (IT Rules 2026), restrita a informação sobre "negócios do Governo Central" — e é justamente o dispositivo mais contestado das regras indianas.
@@ -111,11 +107,9 @@ decisão política — não técnica. A lei passa a dizer ao cidadão em quem co
 | **PL 4218/2025 + PL 4364/2026** (Câmara) | Política Nacional de Soberania Digital e contratação de nuvem — objetos das Ideias 019 e 006 |
 | **PL 4752/2025** (Senado) | Marco Legal da Cibersegurança, cria autoridade nacional — objeto da Ideia 006 e da Ideia 007 |
 
-**Consequência:** uma afirmação do tipo "o Brasil não tem X" pode ser contestada na primeira leitura por
-quem conhecer esses projetos. E o subsídio à PEC perde força se propuser o que já está em tramitação sem dizer que está.
+**Consequência:** uma afirmação do tipo "o Brasil não tem X" pode ser contestada na primeira leitura por quem conhecer esses projetos. E o subsídio à PEC perde força se propuser o que já está em tramitação sem dizer que está.
 
-**Decisão necessária:** incorporar os três projetos ao acervo **antes** de fechar o conjunto, ou declarar em
-cada arquivo que a análise é só da lei vigente?
+**Decisão necessária:** incorporar os três projetos ao acervo **antes** de fechar o conjunto, ou declarar em cada arquivo que a análise é só da lei vigente?
 
 ---
 
@@ -131,8 +125,7 @@ O bloco de definições de `Ideias.md` define:
 
 A Ideia 001, por sua vez, trata "linha do tempo cronológica" como o modo **sem recomendação**. Pela definição do próprio arquivo, a entrega orgânica já contém um sinal de recomendação, e a linha do tempo "cronológica" nunca seria puramente cronológica.
 
-**Decisão necessária:** redefinir "entrega orgânica" como entrega **apenas por autoria** (quem o usuário
-segue publicou), e tratar engajamento de seguidos como sinal de recomendação — ou manter a definição e reformular a Ideia 001.
+**Decisão necessária:** redefinir "entrega orgânica" como entrega **apenas por autoria** (quem o usuário segue publicou), e tratar engajamento de seguidos como sinal de recomendação — ou manter a definição e reformular a Ideia 001.
 
 ### C.2 — Ideia 002 e Ideia 003 se sobrepõem
 
@@ -145,8 +138,7 @@ A 002 fixa composição do feed (80% de conteúdo não impulsionado de contas se
 
 Se o padrão for a linha do tempo cronológica (001), a cota de 80/20 da 002 só incide no modo priorizado — que passa a ser exceção acionada pelo usuário. A proposta de composição do feed vira regra de nicho.
 
-**Decisão necessária:** a cota da 002 vale nos dois modos, ou só no priorizado? Se só no priorizado, a 002
-depende de a 001 não ser aprovada na forma atual.
+**Decisão necessária:** a cota da 002 vale nos dois modos, ou só no priorizado? Se só no priorizado, a 002 depende de a 001 não ser aprovada na forma atual.
 
 ### C.4 — Três arquivos tratam de documentar e verificar risco
 
@@ -158,8 +150,7 @@ depende de a 001 não ser aprovada na forma atual.
 
 A fronteira não está definida. A 004 chega a listar como lacuna "auditoria externa de sistemas de recomendação", que é o objeto inteiro da 020.
 
-**Decisão necessária:** definir qual arquivo carrega o quê — avaliação de risco (009), documentação do
-algoritmo (004), verificação periódica por terceiro (020) — e remover a sobreposição da 004.
+**Decisão necessária:** definir qual arquivo carrega o quê — avaliação de risco (009), documentação do algoritmo (004), verificação periódica por terceiro (020) — e remover a sobreposição da 004.
 
 ### C.5 — Ideia 014 e Ideia 015 fixam prazos em regimes diferentes
 
@@ -177,18 +168,15 @@ A 014 fixa prazo para cumprimento de ordem de **autoridade**; a 015 fixa prazo p
 - **não tem entrada** para o RGPD (`fontes/UE/2016-regulamento-ue-2016-679-rgpd.md`), para o ECA Digital nem para o Decreto 12.880/2026 — a tese do STF foi acrescentada nesta rodada, manualmente;
 - a linha da tese do STF, que acrescentei, usa `Brasil/` em maiúscula — o que deixou o índice **internamente inconsistente**.
 
-**Consequência:** citar por caminho a partir do índice leva a arquivo inexistente. O instrumento que deveria
-garantir rastreabilidade é hoje a parte menos confiável do repositório.
+**Consequência:** citar por caminho a partir do índice leva a arquivo inexistente. O instrumento que deveria garantir rastreabilidade é hoje a parte menos confiável do repositório.
 
-**Decisão necessária:** reescrever o índice a partir da listagem real de arquivos (script), ou declarar que
-o índice é histórico e criar um novo.
+**Decisão necessária:** reescrever o índice a partir da listagem real de arquivos (script), ou declarar que o índice é histórico e criar um novo.
 
 ### C.7 — O arquivo com as oito propostas originais está órfão
 
 `ideias/Ideias - cópia.md` é a **lista original das oito propostas**, com a redação de base de todas as formulações citadas nos arquivos `Ideia_001` a `Ideia_007`. O nome ("cópia") sugere descartável; o conteúdo é fonte primária. Nenhum arquivo o referencia, e ele entrou no versionamento nesta rodada.
 
-**Decisão necessária:** renomear para algo como `Ideias - lista original.md`, referenciá-lo em `Ideias.md`
-como origem das formulações, ou removê-lo após transcrever o texto para dentro dos arquivos.
+**Decisão necessária:** renomear para algo como `Ideias - lista original.md`, referenciá-lo em `Ideias.md` como origem das formulações, ou removê-lo após transcrever o texto para dentro dos arquivos.
 
 ### C.8 — Correções feitas nesta rodada
 
@@ -197,8 +185,7 @@ como origem das formulações, ou removê-lo após transcrever o texto para dent
 | Afirmei que faltava o ato de execução do art. 72, § 3º do AI Act | `Ideia_020`, lacunas | O Digital Omnibus **retirou** esse poder; agora só há orientação com modelo voluntário, até 02/09/2027 |
 | Descrevi o art. 50 do AI Act sem as alterações do omnibus | `Ideia_010` | Acrescentado: § 7º reescrito (códigos de prática em vez de regras harmonizadas) e prazo de transição até 02/12/2026 |
 
-**Lição de método:** o AI Act é fonte de quatro arquivos (010, 016, 017, 020) e foi alterado em 2026. Citar
-o texto consolidado de 2024 sem conferir o omnibus artigo por artigo produz erro — foi o que aconteceu.
+**Lição de método:** o AI Act é fonte de quatro arquivos (010, 016, 017, 020) e foi alterado em 2026. Citar o texto consolidado de 2024 sem conferir o omnibus artigo por artigo produz erro — foi o que aconteceu.
 
 ---
 
@@ -206,7 +193,7 @@ o texto consolidado de 2024 sem conferir o omnibus artigo por artigo produz erro
 
 | # | Decisão | Por que está travada |
 |---|---|---|
-| **D.1** | **Qual órgão** — ANPD, autoridade nova ou a do PL 4752/2025 | 006 (órgão), 007 (registro e sanção) e 020 (auditoria) dependem disso; nenhum dos três pode virar texto antes |
+| **D.1** | **Qual órgão** | **decidida provisoriamente: ANPD ampliada** (opção 1). Ver bloco D.1 abaixo |
 | **D.2** | **Quais das 20 entram no subsídio** | O conjunto completo serve de banco de ideias; o subsídio à PEC precisa de um subconjunto com prioridade |
 | **D.3** | **Veículo de cada ideia** — PEC, lei, regulamento ou contrato | Nenhuma das 20 foi classificada. A decisão de arquitetura (PEC = princípios, lei = deveres e sanções, regulamento = detalhe técnico) existe, mas não foi aplicada |
 | **D.4** | **Formato do produto final** | "Subsídio" pode ser emendas a uma PEC que ainda não foi protocolada, minuta de PL paralelo, ou texto de justificação. São três documentos diferentes |
@@ -215,6 +202,26 @@ o texto consolidado de 2024 sem conferir o omnibus artigo por artigo produz erro
 | **D.7** | **Peso do repositório** | `.git` com 27 MB e `fontes/` com 37 MB de PDFs. Decidir se o acervo de fontes fica versionado, ou só o índice com URLs |
 
 ---
+
+### D.1 — Órgão competente (decisão provisória)
+
+**Decidido em exercício:** opção 1, **ANPD ampliada**. Registrada como provisória — pode mudar para autoridade nova (opção 2), autoridade de cibersegurança (opção 3) ou modelo misto (opção 4).
+
+**O que a escolha exigiu:**
+
+| Consequência | Estado |
+|---|---|
+| Nomear a ANPD nos três textos que diziam "autoridade competente" | feito — art. 23-H do Capítulo IV-A, art. 9º da Lei de Mercados Digitais, art. 8º da lei de soberania |
+| Dar competência à ANPD, que hoje só alcança tratamento de dados (LGPD, art. 55-J) | **Anteprojeto F**, redigido — seis incisos novos no art. 55-J |
+| Resolver o descompasso entre o nome da agência e o novo mandato | **aberto** — renomear para "Proteção de Dados e Soberania Digital" ou ancorar a competência em dado pessoal |
+| Coordenar com o CADE e com a autoridade de cibersegurança | previsto no inciso XX do Anteprojeto F; depende de decisão sobre o modelo misto |
+
+**Duas fragilidades que a opção 1 carrega:**
+
+1. **Competência para sancionar conteúdo.** A ANPD é agência de proteção de dados; moderação de conteúdo não é tratamento de dado pessoal. Sustentar isso exige renomear a agência — sem o que o mandato fica exposto.
+2. **Concentração de quatro funções** — dados, IA, plataformas e designação concorrencial — num órgão só. No modelo europeu, a designação de plataformas é da Comissão; no japonês, da JFTC. É a opção mais exposta a captura.
+
+**Se a decisão voltar atrás:** os seis incisos do art. 55-J migram para o novo órgão e o art. 55-A da LGPD volta à redação da Lei 15.452/2026.
 
 ## E — Análise mais profunda necessária
 
@@ -279,12 +286,48 @@ Afeta a defesa das Ideias 002 (quota), 012 (limites de desenho) e 019 (processam
 
 ---
 
+---
+
+## H — Propostas consideradas e não adotadas
+
+Registro do que foi formulado, discutido e deixado de lado — para não voltar daqui a três semanas como se fosse novo. Diferente dos blocos anteriores: aqui o problema não está em aberto, a proposta é que foi descartada.
+
+### H.1 — Autonomia do usuário sobre métricas de uso (Ideia_026)
+
+**O que era.** O usuário poderia optar por não ter suas métricas de uso armazenadas, requerer a qualquer tempo a eliminação das já armazenadas, e o relatório periódico do provedor indicaria quantas solicitações de não armazenamento e de eliminação foram feitas no período.
+
+**Onde estava prevista.** Como emenda ao Marco Civil — inciso novo no art. 7º e seção própria no Capítulo IV-A —, com indicador no relatório do art. 23-G. Foi redigida e depois removida por decisão sua.
+
+**Por que era viável.** Não exigia lei nova, órgão novo nem emenda constitucional. O gancho legal já existia: o art. 7º fixa direitos do usuário e o art. 15 fixa a guarda obrigatória de registros — e é a distinção entre os dois que dá validade ao dispositivo.
+
+**A distinção que a redação exigia.** O art. 15 do Marco Civil obriga o provedor com atividade econômica organizada a guardar **registros de acesso a aplicações de internet por 6 meses**. Uma opção de "não armazenar" que alcançasse esses registros seria ilegal. A norma teria de excluir expressamente os registros dos arts. 13 e 15 e recair apenas sobre a **telemetria de interação** — visualização, tempo de exibição, clique, curtida, compartilhamento, salvamento, busca e navegação —, que não tem guarda obrigatória. E "não armazenar" só é exigível sobre o **histórico analítico**, não sobre os logs brutos de infraestrutura.
+
+**Redação que chegou a ser escrita** (para reconstruir, se a ideia voltar):
+
+> "Art. 7º, XVI — de optar por não ter suas métricas de uso armazenadas e de requerer, a qualquer tempo, a eliminação das já armazenadas."
+>
+> "Art. 23-I. O usuário poderá optar, a qualquer tempo e sem prejuízo do acesso ao serviço, por não ter suas métricas de uso armazenadas pelo provedor. § 1º Considera-se métrica de uso o registro da interação do usuário com conteúdo e funcionalidades, incluídos a visualização, o tempo de exibição, o clique, a curtida, o compartilhamento, o salvamento, a busca e a navegação, **excluídos os registros de conexão e de acesso a aplicações de internet de que tratam os arts. 13 e 15 desta Lei**. § 2º A opção não impede o tratamento necessário à prestação do serviço durante a sessão, vedada a constituição de histórico de métricas de uso. § 3º A opção será oferecida em local de fácil acesso, com reversão em um único passo, vedado condicionar o acesso ao serviço à sua recusa. § 4º A opção não afasta medidas de segurança, de prevenção a fraude e de detecção de comportamento inautêntico, limitadas aos dados estritamente necessários."
+>
+> "Art. 23-J. O usuário poderá requerer, sem ônus, a eliminação das métricas de uso relativas a si já armazenadas, que serão excluídas em 15 dias, ressalvadas as hipóteses de guarda obrigatória previstas nesta Lei e na Lei nº 13.709/2018. § 1º A eliminação alcança os dados derivados, inclusive perfis de interesse, segmentações e modelos individualizados a eles vinculados, ainda que armazenados por terceiro contratado. § 2º O provedor confirmará a eliminação e manterá apenas o registro do pedido e da data de atendimento."
+
+**Os quatro problemas que a redação tinha, e que não eram fatais:**
+
+| Problema | Gravidade |
+|---|---|
+| Conflito com a Ideia_005 — detecção de bots depende de telemetria; a opção cria ponto cego | real, atenuado pelo § 4º; faltava definir quem decide o "estritamente necessário" |
+| LGPD, art. 16 — a remissão genérica à LGPD abria mais exceção do que se pretendia | de redação: bastava listar as hipóteses que sobrevivem |
+| Relatório semestral × "anual auditado" | de redação: uma palavra |
+| Eliminar "modelos" — desaprender um usuário de um modelo treinado não tem solução técnica consolidada | de redação: trocar por "modelos individualizados" ou retirar a palavra |
+
+**Se voltar.** Está tudo aqui: o gancho legal, a distinção do art. 15, a redação e os quatro problemas. O que faltaria decidir é só o que ficou em aberto na época: quem decide o que é "estritamente necessário" para as medidas antifraude, e se o indicador entra em relatório anual ou semestral.
+
 ## Como usar este arquivo
 
-Cada bloco recebe um identificador (A a G) e os pontos entram numerados dentro dele.
+Cada bloco recebe um identificador (A a H) e os pontos entram numerados dentro dele.
 
 - **A** e **C** são de conteúdo: propostas e contradições entre arquivos.
 - **B**, **F** e **G** são de método: o que falta levantar e o que já saiu da regra.
 - **D** e **E** são de decisão: o que trava o avanço até você definir.
+- **H** é de memória: propostas descartadas, com o motivo e a redação que chegou a existir.
 
 Quando um ponto for resolvido — por decisão sua ou por fonte nova — a linha sai daqui e vai para o arquivo da ideia correspondente, ou para `pesquisa/` se for achado de levantamento.

@@ -18,8 +18,7 @@
 >
 > "É permitido que a plataforma faculte aos usuários a utilização de bots… Tais bots devem estar sinalizados dentro da plataforma… Quaisquer engajamentos gerados por estes bots devem ser desconsiderados para qualquer efeito de priorização do algoritmo."
 
-**Por que aglutinadas:** as duas tratam do mesmo objeto — a **validade do sinal que alimenta a
-priorização**. Uma ataca a origem geográfica do engajamento; a outra, a origem automatizada. O instrumento é o mesmo: excluir do cálculo o sinal espúrio e documentar a política.
+**Por que aglutinadas:** as duas tratam do mesmo objeto — a **validade do sinal que alimenta a priorização**. Uma ataca a origem geográfica do engajamento; a outra, a origem automatizada. O instrumento é o mesmo: excluir do cálculo o sinal espúrio e documentar a política.
 
 ---
 
@@ -58,8 +57,7 @@ Notificação de 2023, ponto 10:
 
 Fonte: `fontes/China/2023-notificacao-automidia-pt.md`
 
-**É o modelo mais próximo da proposta:** a China trata métrica como objeto de regulação — inclusive a
-métrica que alimenta a priorização — e não apenas o conteúdo.
+**É o modelo mais próximo da proposta:** a China trata métrica como objeto de regulação — inclusive a métrica que alimenta a priorização — e não apenas o conteúdo.
 
 ---
 

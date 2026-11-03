@@ -51,8 +51,7 @@ E o art. 42, § 4º, fecha o ciclo com a publicidade:
 
 > "[...] tornar públicos, o mais tardar três meses após o recebimento de cada relatório de auditoria: (a) relatório com os resultados da avaliação de risco; (b) as medidas de mitigação específicas adotadas; (c) o **relatório de auditoria**; (d) o **relatório de implementação da auditoria**."
 
-**O que o desenho tem de sofisticado:** as três regras de conflito de interesse — defasagem de 12 meses
-antes e depois, limite de 10 anos e vedação de honorário contingente. Sem elas, a auditoria paga pela plataforma é um contrato, não uma verificação.
+**O que o desenho tem de sofisticado:** as três regras de conflito de interesse — defasagem de 12 meses antes e depois, limite de 10 anos e vedação de honorário contingente. Sem elas, a auditoria paga pela plataforma é um contrato, não uma verificação.
 
 ### Reino Unido — o regulador audita, não recebe auditoria
 
@@ -68,8 +67,7 @@ Fonte: `fontes/Reino-Unido/2023-online-safety-act.md` (Anexo 12, § 4º)
 
 Detalhes de execução: o aviso deve ser dado com **pelo menos 28 dias** de antecedência, não pode alcançar domicílio residencial nem material protegido por sigilo profissional, e o descumprimento é **infração penal**.
 
-**A diferença em relação ao modelo europeu:** no DSA a plataforma contrata o auditor; no Reino Unido o
-regulador **faz** a auditoria. O primeiro modelo escala melhor; o segundo depende de capacidade estatal.
+**A diferença em relação ao modelo europeu:** no DSA a plataforma contrata o auditor; no Reino Unido o regulador **faz** a auditoria. O primeiro modelo escala melhor; o segundo depende de capacidade estatal.
 
 ### Coreia do Sul — certificação voluntária, documento obrigatório
 
@@ -83,8 +81,7 @@ E o art. 34, § 1º, 5:
 
 Fonte: `fontes/Coreia/2025-framework-act-ai-EN.pdf`
 
-**A escolha coreana é a mais leve das três:** certificação voluntária, mas documentação obrigatória. Quem
-não se certifica continua tendo de provar que agiu.
+**A escolha coreana é a mais leve das três:** certificação voluntária, mas documentação obrigatória. Quem não se certifica continua tendo de provar que agiu.
 
 ### União Europeia — a avaliação prévia como condição de mercado
 
@@ -143,8 +140,7 @@ E o art. 44, § 2º, fixa a validade do certificado: **até 5 anos** para sistem
 
 O único precedente brasileiro de auditoria independente com credenciamento estatal está fora desse campo: o art. 11-B, § 5º do Redata. Ele verifica **destinação de capacidade**, não conduta — mas é a única prova, no direito brasileiro, de que o desenho é operacionalmente possível.
 
-**A lição mais transferível é a do DSA, § 3º do art. 37:** o problema da auditoria paga pela plataforma não
-é o pagamento, é o conflito de interesse. As três regras — 12 meses de defasagem, 10 anos de limite, vedação de honorário contingente — são o que separa auditoria de consultoria.
+**A lição mais transferível é a do DSA, § 3º do art. 37:** o problema da auditoria paga pela plataforma não é o pagamento, é o conflito de interesse. As três regras — 12 meses de defasagem, 10 anos de limite, vedação de honorário contingente — são o que separa auditoria de consultoria.
 
 **A lição do Reino Unido** é que auditoria conduzida pelo regulador exige capacidade estatal instalada — 28 dias de antecedência, poder de entrada, custo reembolsado e infração penal por descumprimento. É o modelo mais robusto e o mais caro.
 
@@ -177,8 +173,7 @@ O único precedente brasileiro de auditoria independente com credenciamento esta
 4. Não localizei **organismos de auditoria** credenciados no Brasil para plataformas ou IA.
 5. Não há, no acervo, precedente de **auditoria realizada** sob o art. 37 do DSA — só o desenho normativo.
 
-**Nota sobre o art. 72 do AI Act:** o modelo de plano de monitoramento pós-comercialização não existe e não
-vai existir como ato de execução. O Regulamento (UE) 2026/1744 (Digital Omnibus) **retirou** do art. 72, § 3º o poder de a Comissão adotar ato de execução e passou a exigir apenas a publicação de **orientação com modelo voluntário**, até 02/09/2027. Não é lacuna de acervo — é mudança de regime, e sinaliza que a UE está trocando norma vinculante por orientação em parte da matéria.
+**Nota sobre o art. 72 do AI Act:** o modelo de plano de monitoramento pós-comercialização não existe e não vai existir como ato de execução. O Regulamento (UE) 2026/1744 (Digital Omnibus) **retirou** do art. 72, § 3º o poder de a Comissão adotar ato de execução e passou a exigir apenas a publicação de **orientação com modelo voluntário**, até 02/09/2027. Não é lacuna de acervo — é mudança de regime, e sinaliza que a UE está trocando norma vinculante por orientação em parte da matéria.
 
 ---
 

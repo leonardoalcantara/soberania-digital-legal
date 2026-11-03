@@ -38,8 +38,7 @@ E o § 4º acrescenta uma exigência que costuma faltar nas formulações genér
 
 Fonte: `fontes/UE/2024-regulamento-ue-2024-1689-ai-act.pdf`
 
-**O § 4º é o dispositivo mais diretamente relevante para o debate brasileiro:** um sistema treinado para
-outro contexto geográfico e linguístico não é neutro — a lei europeia trata isso como requisito de qualidade do dado.
+**O § 4º é o dispositivo mais diretamente relevante para o debate brasileiro:** um sistema treinado para outro contexto geográfico e linguístico não é neutro — a lei europeia trata isso como requisito de qualidade do dado.
 
 Para modelos de uso geral, o art. 53, § 1º, "d" troca o detalhe pela publicidade:
 
@@ -61,8 +60,7 @@ E MADDE 6, sobre deveres de provedores de serviços de IA:
 
 Fonte: `fontes/Turquia/2025-turquia-esas-2-3358-teklif-texto-extraido.md` (MADDE 4 e MADDE 6)
 
-**O que o desenho tem de diferente:** não cria um dever novo de governança — **reclassifica** o uso de
-data set discriminatório como violação de segurança de dados, o que o coloca sob o regime sancionatório já existente da lei de proteção de dados. É economia legislativa: nenhuma estrutura nova, uma qualificação a mais.
+**O que o desenho tem de diferente:** não cria um dever novo de governança — **reclassifica** o uso de data set discriminatório como violação de segurança de dados, o que o coloca sob o regime sancionatório já existente da lei de proteção de dados. É economia legislativa: nenhuma estrutura nova, uma qualificação a mais.
 
 ### China — seis exigências, incluindo a que quase ninguém põe em lei
 
@@ -72,8 +70,7 @@ Medidas de IA Antropomórfica (2026), art. 11:
 
 Fonte: `fontes/China/2026-medidas-ia-antropomorfica-pt.md`
 
-**O item IV não aparece em nenhum outro instrumento do acervo:** avaliar a segurança de **dados
-sintéticos** usados no treinamento. À medida que modelos passam a treinar sobre saída de outros modelos, a questão deixa de ser teórica.
+**O item IV não aparece em nenhum outro instrumento do acervo:** avaliar a segurança de **dados sintéticos** usados no treinamento. À medida que modelos passam a treinar sobre saída de outros modelos, a questão deixa de ser teórica.
 
 ---
 
@@ -101,8 +98,7 @@ sintéticos** usados no treinamento. À medida que modelos passam a treinar sobr
 
 ## 4. O que a comparação revela
 
-**É a proposta com o melhor caminho de transplante, por um motivo específico:** o Brasil já tem a
-autoridade (ANPD como Agência) e já tem o gancho legal (LGPD art. 20, § 2º). O que falta é transformar um poder reativo de auditoria em **dever prévio de documentação**.
+**É a proposta com o melhor caminho de transplante, por um motivo específico:** o Brasil já tem a autoridade (ANPD como Agência) e já tem o gancho legal (LGPD art. 20, § 2º). O que falta é transformar um poder reativo de auditoria em **dever prévio de documentação**.
 
 A UE separa dois regimes que o debate brasileiro costuma misturar:
 

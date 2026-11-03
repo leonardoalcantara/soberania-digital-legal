@@ -50,8 +50,7 @@ E o âmbito de aplicação, quanto ao uso:
 
 > "Sistemas PROTECTED e de governo como um todo devem ser hospedados em Data Centre **Certified Strategic** ou **Certified Assured**."
 
-**A inversão que o documento faz:** a pergunta não é *onde* o dado está, é *quem controla quem guarda* — e
-o instrumento para isso é contratual. O Governo não exige território; exige o poder de impor condições de propriedade e controle, com sanção financeira se o perfil do provedor mudar.
+**A inversão que o documento faz:** a pergunta não é *onde* o dado está, é *quem controla quem guarda* — e o instrumento para isso é contratual. O Governo não exige território; exige o poder de impor condições de propriedade e controle, com sanção financeira se o perfil do provedor mudar.
 
 ### Brasil — a única obrigação de processamento local vigente
 
@@ -69,8 +68,7 @@ Ou seja: a exigência não é sobre onde o dado fica — é sobre **de onde vem 
 
 E a sanção pelo descumprimento (art. 11-H): suspensão dos benefícios em novas aquisições, convertida automaticamente em **cancelamento da habilitação** se a infração não for sanada em 180 dias, com impedimento de nova adesão por 2 anos para a empresa **e seu grupo econômico**.
 
-**A natureza do instrumento é o ponto:** é contrapartida de benefício fiscal, exigível apenas de quem pede
-habilitação. Empresa que não adere ao Redata não tem nenhuma obrigação de processar no Brasil.
+**A natureza do instrumento é o ponto:** é contrapartida de benefício fiscal, exigível apenas de quem pede habilitação. Empresa que não adere ao Redata não tem nenhuma obrigação de processar no Brasil.
 
 ### Brasil — a exigência de hospedagem que já existe desde 2009
 
@@ -80,8 +78,7 @@ Lei 9.504/1997, art. 57-B, I:
 
 Idem no inciso II, para sítio do partido ou da coligação.
 
-**Por que este dispositivo importa:** é uma exigência de localidade **em lei**, vigente desde 2009, fora do
-regime tributário e sem relação com benefício. É o único precedente brasileiro de obrigação de hospedagem no País dirigida a particular, e o acervo não registra debate sobre sua constitucionalidade ou eficácia.
+**Por que este dispositivo importa:** é uma exigência de localidade **em lei**, vigente desde 2009, fora do regime tributário e sem relação com benefício. É o único precedente brasileiro de obrigação de hospedagem no País dirigida a particular, e o acervo não registra debate sobre sua constitucionalidade ou eficácia.
 
 ---
 

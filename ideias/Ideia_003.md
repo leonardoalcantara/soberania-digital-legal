@@ -40,8 +40,7 @@ Resolução TSE nº 23.755/2026, art. 29, § 8º:
 
 Fonte: `fontes/Brasil/2026-resolucao-tse-23755-Resolução TSE 23.755 - texto.md`
 
-**Consequência:** a exceção legal sobreviveu ao TSE, mas o Tribunal fechou o caminho indireto — pagar
-influenciador para publicar. O que resta é o impulsionamento contratado diretamente pelo partido ou candidato.
+**Consequência:** a exceção legal sobreviveu ao TSE, mas o Tribunal fechou o caminho indireto — pagar influenciador para publicar. O que resta é o impulsionamento contratado diretamente pelo partido ou candidato.
 
 ### Outros ordenamentos
 
@@ -71,14 +70,11 @@ Não localizei, no acervo, norma equivalente de proibição de propaganda polít
 
 **A proposta não é uma inovação — é uma revogação parcial.** Isso muda o debate: não se discute se o Brasil deve proibir, mas se deve manter aberta a exceção que criou em 2017.
 
-**O argumento a favor do fechamento:** em 2017 a exceção foi pensada para permitir que campanhas com
-menos recursos alcançassem eleitores. O que se viu depois foi outra coisa — o impulsionamento virou mercado, e o TSE precisou, em 2026, fechar a porta do influenciador remunerado.
+**O argumento a favor do fechamento:** em 2017 a exceção foi pensada para permitir que campanhas com menos recursos alcançassem eleitores. O que se viu depois foi outra coisa — o impulsionamento virou mercado, e o TSE precisou, em 2026, fechar a porta do influenciador remunerado.
 
-**O argumento contrário:** o impulsionamento é instrumento de campanha pequena. Proibi-lo pode
-concentrar vantagem em quem já tem mídia tradicional e estrutura partidária.
+**O argumento contrário:** o impulsionamento é instrumento de campanha pequena. Proibi-lo pode concentrar vantagem em quem já tem mídia tradicional e estrutura partidária.
 
-**Onde há evidência e onde não há:** o acervo permite descrever a regra e a exceção; **não permite medir**
-o efeito do impulsionamento na disputa. Qualquer afirmação sobre impacto exigiria dado que não temos.
+**Onde há evidência e onde não há:** o acervo permite descrever a regra e a exceção; **não permite medir** o efeito do impulsionamento na disputa. Qualquer afirmação sobre impacto exigiria dado que não temos.
 
 ---
 

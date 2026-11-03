@@ -65,11 +65,9 @@ Fonte: `pesquisa/noticias/tema-ia.md` (secundária — o texto da decisão não 
 
 **É a proposta com melhor evidência de funcionamento e maior vulnerabilidade constitucional.**
 
-**A favor:** existe, está em vigor, foi aplicada e não foi derrubada. É o único caso do acervo em que uma
-restrição temporal a conteúdo já operou em eleição real.
+**A favor:** existe, está em vigor, foi aplicada e não foi derrubada. É o único caso do acervo em que uma restrição temporal a conteúdo já operou em eleição real.
 
-**Contra:** o precedente americano mostra o risco. Uma vedação de circulação de conteúdo — ainda que por
-tempo curto e ainda que limitada a conteúdo sintético — é restrição de expressão e será testada sob proporcionalidade.
+**Contra:** o precedente americano mostra o risco. Uma vedação de circulação de conteúdo — ainda que por tempo curto e ainda que limitada a conteúdo sintético — é restrição de expressão e será testada sob proporcionalidade.
 
 **O que a distingue da lei californiana derrubada:** a janela brasileira é **estreita e finalista** —
 72 horas antes e 24 depois, no momento em que o desmentido é ineficaz. Restrições amplas durante toda a campanha foram as que caíram.

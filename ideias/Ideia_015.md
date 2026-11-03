@@ -41,8 +41,7 @@ E o § 3º faz a ponte com a isenção: a notificação que permite ao prestador
 
 Fonte: `fontes/UE/2022-regulamento-ue-2022-2065-dsa.pdf`
 
-**O que o desenho tem de específico:** a isenção não é um privilégio do setor, é a contrapartida de um
-dever de reação. Quanto mais fraca a notificação, menos se pode exigir do intermediário — e o art. 16, § 2º define o padrão mínimo da notificação justamente para que a exigência seja possível.
+**O que o desenho tem de específico:** a isenção não é um privilégio do setor, é a contrapartida de um dever de reação. Quanto mais fraca a notificação, menos se pode exigir do intermediário — e o art. 16, § 2º define o padrão mínimo da notificação justamente para que a exigência seja possível.
 
 ### Estados Unidos — o prazo curto sem ordem judicial, num ilícito só
 
@@ -54,8 +53,7 @@ E o § 3(4) limita a responsabilidade por remoção de boa-fé, "independentemen
 
 Fonte: `fontes/EUA/2025-pl-119-12-take-it-down-act.pdf`
 
-**O ponto que interessa:** 48 horas, sem juiz, só é sustentável porque a categoria é estreita e a
-ilicitude é evidente pelo próprio objeto. O prazo curto e o âmbito restrito andam juntos.
+**O ponto que interessa:** 48 horas, sem juiz, só é sustentável porque a categoria é estreita e a ilicitude é evidente pelo próprio objeto. O prazo curto e o âmbito restrito andam juntos.
 
 ### Índia — o conhecimento efetivo e a pessoa responsável
 
@@ -69,8 +67,7 @@ Regra 4(1)(a), sobre o *Chief Compliance Officer*:
 
 Fonte: `fontes/India/2026-it-amendment-rules-sgi.pdf`
 
-**O que acrescenta:** liga a responsabilidade da empresa a uma pessoa nomeada, residente no país, e
-impõe o dever de preservar o conteúdo removido — a remoção não apaga a prova.
+**O que acrescenta:** liga a responsabilidade da empresa a uma pessoa nomeada, residente no país, e impõe o dever de preservar o conteúdo removido — a remoção não apaga a prova.
 
 ---
 

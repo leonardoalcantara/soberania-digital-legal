@@ -93,6 +93,8 @@ Vocabulário de trabalho do projeto. Existe porque as vinte e cinco propostas us
 | **consentir** | manifestar concordância livre, informada e inequívoca com tratamento de dado ou com configuração | TL | 008, 012 |
 | **verificar idade** | aferir a faixa etária do usuário por mecanismo técnico confiável | TL | 008, 012 |
 
+**Nota sobre `reclamar` e `recorrer` — a origem da medida define o foro.** Decisão interna da plataforma contesta-se **perante a plataforma**. Decisão decorrente de ordem judicial ou administrativa contesta-se **no juízo ou perante a autoridade que a emitiu**, e não admite revisão de mérito pelo provedor. A regra vale para as Ideias 014, 015 e 022 e precisa estar explícita em cada uma: o dever de informar alcança as duas hipóteses, o dever de julgar o recurso alcança só a primeira.
+
 **Nota sobre `engajar`:** hoje a palavra cobre seis ações com pesos e efeitos diferentes. A Ideia_005 fala em "engajamento estrangeiro" sem que se saiba qual engajamento — e a resposta muda o alcance da norma.
 
 ## 4. Punições ao usuário — o que a plataforma faz contra a pessoa

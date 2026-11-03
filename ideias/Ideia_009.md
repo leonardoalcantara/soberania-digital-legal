@@ -36,8 +36,7 @@ Online Safety Act 2023, art. 9º:
 
 Fonte: `fontes/Reino-Unido/2023-online-safety-act.md` (art. 9º)
 
-**O ponto central:** o dever não recai sobre o conteúdo publicado, mas sobre o **desenho e a operação**
-do serviço. E a avaliação de risco é documento exigível, não diagnóstico interno.
+**O ponto central:** o dever não recai sobre o conteúdo publicado, mas sobre o **desenho e a operação** do serviço. E a avaliação de risco é documento exigível, não diagnóstico interno.
 
 ### Austrália — o dever genérico
 
@@ -75,11 +74,9 @@ Fonte: `fontes/UE/2026-proposta-ue-eu-kids-act.pdf`
 
 **É a proposta com melhor arquitetura e pior fiscalização.** O dever de cuidado é genérico por desenho: funciona se houver regulador com capacidade técnica para ler avaliações de risco e contestá-las. O modelo britânico só funciona porque a Ofcom publica códigos de prática que dizem o que se espera.
 
-**O que o Brasil precisaria junto:** um regulador com poder de exigir documentos e contratar perícia —
-hoje, nenhum órgão brasileiro tem esse mandato sobre plataformas fora do período eleitoral.
+**O que o Brasil precisaria junto:** um regulador com poder de exigir documentos e contratar perícia — hoje, nenhum órgão brasileiro tem esse mandato sobre plataformas fora do período eleitoral.
 
-**Risco jurídico:** dever genérico sem código de prática vira litígio sobre o que é "adequado e
-suficiente". A recomendação técnica é acoplar o dever a **parâmetros publicados pelo regulador**, como a Ofcom faz.
+**Risco jurídico:** dever genérico sem código de prática vira litígio sobre o que é "adequado e suficiente". A recomendação técnica é acoplar o dever a **parâmetros publicados pelo regulador**, como a Ofcom faz.
 
 ---
 

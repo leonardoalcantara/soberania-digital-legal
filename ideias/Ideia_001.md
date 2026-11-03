@@ -60,8 +60,7 @@ Regulamento (UE) 2022/2065 (Digital Services Act), art. 38, complementando o art
 
 Fonte: `fontes/UE/2022-regulamento-ue-2022-2065-dsa.pdf`
 
-**Limite duplo:** vale só para plataformas de muito grande porte, e a opção pode continuar sendo
-algorítmica — só não pode personalizar a partir de dados pessoais. "Não perfilado" não é "cronológico": um feed ordenado por popularidade agregada satisfaz a regra europeia.
+**Limite duplo:** vale só para plataformas de muito grande porte, e a opção pode continuar sendo algorítmica — só não pode personalizar a partir de dados pessoais. "Não perfilado" não é "cronológico": um feed ordenado por popularidade agregada satisfaz a regra europeia.
 
 ### Brasil — variante C
 

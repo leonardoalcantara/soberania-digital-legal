@@ -75,8 +75,7 @@ Fonte: `fontes/Brasil/2026-resolucao-tse-23755-Resolução TSE 23.755 - texto.md
 **A distinção que o texto precisa fazer:** transparência **para o usuário** (linguagem clara, parâmetros)
 é fraca — vira letra morta em termos de uso. Transparência **para o regulador e para pesquisadores** (acesso a dados) é a que produz efeito. O DSA separa as duas em artigos distintos; a proposta deveria fazer o mesmo.
 
-**Onde o Brasil já tem o molde:** o art. 125-B do TSE. Plano documentado, indicadores mensuráveis,
-prazos. É a técnica que funciona e que já foi aceita por um tribunal brasileiro.
+**Onde o Brasil já tem o molde:** o art. 125-B do TSE. Plano documentado, indicadores mensuráveis, prazos. É a técnica que funciona e que já foi aceita por um tribunal brasileiro.
 
 ---
 

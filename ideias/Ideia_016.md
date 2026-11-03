@@ -1,89 +1,69 @@
 # Ideia 016 — Responsabilidade de quem desenvolve e treina IA
 
 **Bloco:** D — responsabilidade e infraestrutura
-**Origem:** proposta nova
-**Estado:** proposta de trabalho
+**Origem:** proposta nova, derivada do levantamento comparado — **não estava na lista original das oito**
+**Estado:** proposta de trabalho, reescrita em torno da técnica da definição
 
 ---
 
 ## 1. O que a proposta é
 
-Criar uma figura de responsabilidade própria para **quem desenvolve e treina o sistema**, distinta da responsabilidade de quem publica o conteúdo ou de quem opera o serviço — inclusive com agravante quando o desenho ou o treinamento **viabiliza** o dano.
+Em vez de criar a figura do desenvolvedor, **alterar a definição de "provedor de aplicações de internet"** para abranger quem desenvolve e fornece modelo de inteligência artificial.
 
-Hoje, no direito brasileiro, o desenvolvedor de um modelo não é sujeito do regime de responsabilidade das plataformas: o Marco Civil fala em provedor de aplicações, e a LGPD fala em controlador e operador de dados pessoais. Quem treina o modelo e não o publica fica fora dos dois.
+O efeito é arrastar para o desenvolvedor todo o regime que já existe: o de responsabilidade (Marco Civil, arts. 18 a 21), o de direitos do usuário (art. 7º) e o Capítulo IV-A que a Onda 2 redigiu — dever de cuidado, transparência da curadoria, plano de conformidade e auditoria.
 
----
+**Por que esta formulação é melhor que a anterior.** A versão original desta ideia criava um sujeito novo, com regime próprio. Era invenção sem precedente: o único dispositivo do acervo que responsabilizava diretamente o desenvolvedor por dano era um projeto de lei turco, com defeito de técnica. A técnica da definição faz o mesmo trabalho com uma linha de emenda, e tem precedente de aplicação.
 
 ## 2. Como aparece em outros ordenamentos
 
 | Onde | Instrumento | Mecanismo |
 |---|---|---|
-| Turquia | PL 2/3358, MADDE 2 | **Agravante penal** para o desenvolvedor que, pelo desenho ou treinamento, viabiliza a prática do crime |
-| União Europeia | AI Act (Reg. 2024/1689), art. 25 | Deslocamento de papel: quem põe nome, modifica substancialmente ou muda a finalidade **passa a ser** o provedor |
-| União Europeia | AI Act, art. 27 | Avaliação de impacto sobre direitos fundamentais a cargo de quem **implanta** o sistema |
-| Coreia do Sul | Lei nº 20.676/2025 (Lei-Quadro de IA), art. 2º, 7, "a" e "b" | Separa **desenvolvedor** de **operador usuário** na definição, com deveres por categoria |
-| Coreia do Sul | Lei-Quadro de IA, art. 34 | Deveres do operador quanto a gestão de risco, plano de explicação, plano de proteção e supervisão humana |
-| China | Medidas de IA Antropomórfica (2026), arts. 9º e 10 | "Responsabilidade principal pela segurança" do provedor, em **todo o ciclo de vida** do serviço |
+| **União Europeia** | AI Act, art. 3º, 3 | **Técnica da definição**: "provedor" é quem "desenvolve um sistema de IA ou um modelo de uso geral" |
+| **União Europeia** | AI Act, arts. 51 a 55 | Regime próprio dos **modelos de uso geral**: documentação, informação ao integrador, política de direitos autorais, resumo público do conteúdo de treinamento; em risco sistêmico, avaliação, testes adversariais, relato de incidentes e cibersegurança |
+| **União Europeia** | AI Act, art. 25 | Deslocamento de papel: quem põe nome, modifica substancialmente ou muda a finalidade **passa a ser** o provedor |
+| Coreia do Sul | Lei nº 20.676/2025, art. 2º, 7, "a" e "b" + art. 34 | Separa desenvolvedor de operador usuário na definição — e o art. 34 alcança os dois |
+| China | Medidas de IA Antropomórfica (2026), arts. 9º e 10 | Absorção: um único sujeito, o "provedor", responde por todo o ciclo de vida |
+| Turquia | PL 2/3358, MADDE 2 | Agravante penal para o desenvolvedor que, pelo desenho ou treinamento, viabiliza o crime — **projeto**, e dentro do tipo de injúria |
 
-### Turquia — a única imputação penal direta ao desenvolvedor no acervo
+### União Europeia — a definição que resolve o problema
 
-PL 2/3358, MADDE 2, que insere § 6º ao art. 125 do Código Penal turco:
+AI Act, art. 3º, 3:
 
-> "O usuário que direcionar sistemas de inteligência artificial à prática de fato tipificado como crime nos termos desta lei é considerado autor do crime e é punido nessa qualidade. **Quanto ao desenvolvedor que, pelo desenho ou pelo treinamento do sistema, viabilizar a prática desses crimes, a pena aplicável é aumentada pela metade.**"
+> "**'provedor'** significa uma pessoa singular ou coletiva, autoridade pública, agência ou outro organismo que **desenvolve** um sistema de IA ou um modelo de IA de uso geral **ou que manda desenvolver** um sistema de IA ou um modelo de IA de uso geral **e o coloca no mercado** ou coloca o sistema em serviço sob seu próprio nome ou marca, a título oneroso ou gratuito."
 
-Fonte: `fontes/Turquia/2025-turquia-esas-2-3358-teklif-texto-extraido.md` (MADDE 2)
+São **dois ramos**: quem desenvolve, e quem manda desenvolver e comercializa. O primeiro alcança o desenvolvedor puro; o segundo, quem encomenda o modelo e o põe no mercado.
 
-**Duas observações sobre o desenho:**
+E, sobre essa definição, o capítulo dos modelos de uso geral — art. 53:
 
-1. O dispositivo é **projeto**, não lei — e foi apresentado em 07/11/2025.
-2. Tecnicamente, foi inserido no art. 125 do Código Penal turco, que tipifica o **crime de injúria**. A agravante, portanto, nasce dentro de um tipo específico e não na parte geral — o que limita o alcance material a esse crime. É exemplo de formulação, não de arquitetura.
+> "Os fornecedores de modelos de IA de uso geral devem: (a) elaborar e manter atualizada a documentação técnica do modelo, incluindo seu processo de treinamento e teste e os resultados de sua avaliação[…]; (b) elaborar, manter atualizada e disponibilizar informações e documentação aos fornecedores de sistemas de IA que pretendam integrar o modelo[…]; (c) adotar uma política de cumprimento do direito de autor[…]; (d) **elaborar e tornar publicamente disponível um resumo suficientemente detalhado sobre o conteúdo usado para o treinamento** do modelo."
 
-### União Europeia — a responsabilidade por deslocamento de papel
+Fonte: `fontes/UE/2024-regulamento-ue-2024-1689-ai-act.pdf` (arts. 3º e 53)
 
-O AI Act não cria um "dever do desenvolvedor" genérico. Ele resolve o problema da cadeia de valor por **reatribuição de papel**: quem interfere no sistema assume as obrigações do provedor.
+**Três qualificações que o capítulo traz e que a redação brasileira precisa decidir:**
 
-Art. 25, § 1º:
+1. **Exceção de código aberto** (art. 53, § 2º): as obrigações de documentação e de informação ao integrador não se aplicam a modelos sob licença livre com pesos públicos — **salvo** modelos com risco sistêmico, para os quais a exceção não vale.
+2. **Ajuste fino não cria regime novo** (considerando 109): em caso de modificação ou *fine-tuning*, as obrigações do fornecedor se limitam àquela modificação, complementando a documentação existente.
+3. **Risco sistêmico** (art. 55): avaliação do modelo, testes adversariais documentados, acompanhamento e relato de incidentes graves, e nível adequado de cibersegurança.
 
-> "Qualquer distribuidor, importador, implementador ou outro terceiro será considerado provedor de um sistema de IA de alto risco [...] nas seguintes circunstâncias: (a) **colocar seu nome ou marca** em um sistema de IA de alto risco já colocado no mercado; (b) **modificar substancialmente** um sistema de IA de alto risco já colocado no mercado; (c) **modificar a finalidade** de um sistema de IA [...] de modo que o sistema passe a ser de alto risco."
+### Coreia do Sul — a mesma técnica, dentro de um sujeito só
 
-E o § 2º determina que o provedor inicial deixa de ser provedor daquele sistema, mas deve **cooperar estreitamente** com o novo provedor, fornecendo informações, acesso técnico e assistência.
+A Lei-Quadro define "operador de negócio de IA" e inclui expressamente o desenvolvedor:
 
-Fonte: `fontes/UE/2024-regulamento-ue-2024-1689-ai-act.pdf`
+> "7. 'operador de negócio de inteligência artificial' significa[…] (a) **Desenvolvedor de inteligência artificial**: pessoa que desenvolve e fornece inteligência artificial; (b) **Operador usuário**: pessoa que fornece produtos ou serviços usando inteligência artificial fornecida por um operador da alínea (a)."
 
-**A lógica é diferente da turca:** não se pune o desenvolvedor pelo que o sistema viabiliza — transfere-se
-a ele o regime inteiro de obrigações quando ele assume o controle do produto.
-
-O art. 27 acrescenta o outro lado da cadeia: quem **implanta** sistema de alto risco — órgão público, entidade privada que presta serviço público e os casos dos pontos 5(b) e (c) do Anexo III — deve realizar avaliação de impacto sobre direitos fundamentais **antes** da implantação.
-
-### Coreia do Sul — a distinção que o Brasil não tem
-
-A Lei-Quadro de IA coreana (Lei nº 20.676/2025), no art. 2º, 7, define "operador de negócio de IA" e logo em seguida separa duas figuras:
-
-> "(a) **Desenvolvedor de inteligência artificial**: pessoa que desenvolve e fornece inteligência artificial; (b) **Operador usuário de inteligência artificial**: pessoa que fornece produtos ou serviços de inteligência artificial usando inteligência artificial fornecida por um operador nos termos da alínea (a)."
-
-E o art. 34 concentra os deveres no operador, para IA de alto impacto:
-
-> "O operador de negócio de inteligência artificial deverá implementar medidas que incluam: 1. formular e operar um **plano de gestão de riscos**; 2. formular e implementar um **plano de explicação** dos resultados finais, dos principais critérios utilizados e da **visão geral dos dados de aprendizado** usados no desenvolvimento; 3. formular e operar **planos de proteção do usuário**; 4. designar **supervisão humana**; 5. preparar e manter documentos que comprovem as medidas adotadas."
+E o art. 34 impõe os deveres ao "operador de negócio de IA" — expressão que, pela definição, alcança o desenvolvedor.
 
 Fonte: `fontes/Coreia/2025-framework-act-ai-EN.pdf`
 
-**O que acrescenta:** a definição cria a figura do desenvolvedor — mas os deveres ficam no operador. A
-separação existe no vocabulário, não na imputação.
+### Turquia — o único projeto que imputa diretamente
 
-### China — a responsabilidade do provedor por todo o ciclo de vida
+PL 2/3358, MADDE 2, que insere § 6º ao art. 125 do Código Penal turco:
 
-Medidas de IA Antropomórfica (2026), art. 9º:
+> "O usuário que direcionar sistemas de inteligência artificial à prática de fato tipificado como crime[…] é considerado autor do crime e é punido nessa qualidade. **Quanto ao desenvolvedor que, pelo desenho ou pelo treinamento do sistema, viabilizar a prática desses crimes, a pena aplicável é aumentada pela metade.**"
 
-> "O provedor deve cumprir a **responsabilidade principal pela segurança do serviço**, estabelecendo e aperfeiçoando sistemas de revisão do mecanismo algorítmico, de exame de ética em ciência e tecnologia, de gestão de conteúdo informacional, de segurança de rede e de dados e de planos de risco e resposta a emergências[...]"
+Fonte: `fontes/Turquia/2025-turquia-esas-2-3358-teklif-texto-extraido.md`
 
-Art. 10:
-
-> "O provedor deve cumprir a responsabilidade de segurança em **todo o ciclo de vida** do serviço, definindo requisitos de segurança para implantação, operação, atualização e encerramento, garantindo que as medidas de segurança sejam implantadas e usadas simultaneamente às funcionalidades."
-
-Fonte: `fontes/China/2026-medidas-ia-antropomorfica-pt.md`
-
-**O que acrescenta:** o ciclo de vida é o eixo — a obrigação alcança implantação, operação, atualização e
-**encerramento**. Não há figura autônoma do desenvolvedor: quem responde é o "provedor", expressão que absorve o desenvolvimento.
+É **projeto**, e a agravante nasceu dentro do tipo de injúria — limitação material que o desqualifica como modelo.
 
 ---
 
@@ -91,34 +71,30 @@ Fonte: `fontes/China/2026-medidas-ia-antropomorfica-pt.md`
 
 **Existe:**
 
-- **Marco Civil, arts. 18 e 19** — responsabilidade do **provedor de aplicações** por conteúdo de terceiros. Não alcança quem desenvolve o modelo.
-- **LGPD, art. 42** — responsabilidade do **controlador e do operador** por dano decorrente de tratamento de dados pessoais. Alcança o desenvolvedor apenas quando há tratamento de dados pessoais e apenas nessa dimensão.
-- **LGPD, art. 20** — direito à revisão de decisão automatizada. É direito do titular perante o controlador, não regime de responsabilidade do desenvolvedor.
-- **ECA Digital (Lei 15.211/2025)** — deveres do **provedor de aplicações de internet**, não do desenvolvedor de modelo.
-- **Código Penal, art. 13** — nexo causal e omissão penalmente relevante. É a base genérica que hoje teria de ser usada para alcançar o desenvolvedor.
+- **Marco Civil, arts. 18 e 19** — responsabilidade do **provedor de aplicações de internet** por conteúdo de terceiro.
+- **LGPD, art. 5º, VI e VII** — controlador e operador. Alcançam o desenvolvedor apenas na dimensão de dados pessoais.
+- **LGPD, arts. 42 e 44** — responsabilidade por dano decorrente de tratamento de dados.
+- **Capítulo IV-A do Marco Civil** — ainda não é lei; foi redigido na Onda 2 e alcança o "provedor que utilize sistema de recomendação".
 
 **Falta:**
 
-1. **Figura jurídica do desenvolvedor de sistema de IA.** Não existe em lei brasileira.
-2. **Cadeia de valor.** Nenhuma norma brasileira em vigor atribui obrigações a quem fornece modelo ou componente para outro desenvolver produto.
-3. **Agravante por desenho.** Nenhuma previsão de que o sistema ter sido **concebido** para viabilizar o ilícito altere a pena.
-4. **Dever de informação entre elos.** Não há obrigação de o desenvolvedor informar capacidades, limitações e uso pretendido a quem integra o modelo.
-5. **Encerramento.** Nenhuma norma trata do ciclo de vida — descontinuação, atualização e seus efeitos.
+1. **Definição de "provedor de aplicações de internet".** O Marco Civil usa a expressão nos arts. 15 e 19, mas **não a define**: o art. 5º define "conexão à internet", "aplicações de internet" e "registros", não os sujeitos.
+2. **Alcance do desenvolvedor puro** — quem treina o modelo e o licencia, sem publicar conteúdo.
+3. **Regra de cadeia de valor** — dever de informação ao integrador.
+4. **Regra sobre o modelo de uso geral** — resumo público de treinamento e política de direito autoral.
+5. **Regra sobre risco sistêmico** — avaliação, testes adversariais e relato de incidente.
 
 ---
 
 ## 4. O que a comparação revela
 
-**É a proposta do bloco com o menor número de precedentes vigentes.** O único dispositivo do acervo que responsabiliza diretamente o desenvolvedor é um **projeto de lei turco**, e com alcance limitado por um detalhe de técnica legislativa: a agravante foi inserida dentro do tipo de injúria.
+**A lacuna brasileira é de definição, não de arquitetura.** O Marco Civil já tem regime de responsabilidade, direitos do usuário e deveres de transparência — e não alcança o desenvolvedor apenas porque a definição do sujeito não o inclui.
 
-A UE não imputa ao desenvolvedor pelo que o sistema viabiliza: **reatribui o papel** de provedor a quem interfere no sistema. É uma solução mais segura juridicamente, mas exige definir o que é "modificação substancial" — e essa definição fica em regulamento, não em lei.
+Quatro arquiteturas existem no acervo: agravante penal (Turquia, projeto), reatribuição de papel (UE, art. 25), **técnica da definição com regime próprio** (UE, art. 3º e arts. 51 a 55) e absorção pelo provedor (China). A técnica da definição é a que exige menos invenção legislativa e a que tem precedente de aplicação.
 
-A Coreia mostra o custo de separar os dois vocabulários sem separar as obrigações: a figura do desenvolvedor existe na definição e desaparece na parte de deveres.
+**E há uma consequência que a versão anterior desta ideia não via.** Se o desenvolvedor passa a ser "provedor de aplicações de internet", ele recebe o regime **do Tema 987** — que é o regime interpretado pelo STF, e que recusa responsabilidade objetiva (item 12 da tese). Ou seja: por esta via, o desenvolvedor fica sujeito a responsabilidade **subjetiva**, sem precisar da PEC e sem colidir com a tese.
 
-A China resolve por absorção: um único sujeito — o "provedor" — responde por todo o ciclo de vida, do treinamento ao encerramento.
-
-**Conclusão descritiva:** há quatro arquiteturas possíveis e nenhuma delas é dominante no acervo. A
-escolha brasileira não tem precedente consolidado a importar.
+Isso é uma escolha, não um efeito necessário. Se a preferência for responsabilidade objetiva para o desenvolvedor, aí sim é preciso o § 7º, IV, do art. 220 proposto na Onda 3.
 
 ---
 
@@ -126,31 +102,32 @@ escolha brasileira não tem precedente consolidado a importar.
 
 | Parâmetro | Opções | Consequência |
 |---|---|---|
-| **Quem é o sujeito** | desenvolvedor × provedor que absorve o desenvolvimento × ambos por etapas | Definir "desenvolvedor" em lei é o passo mais difícil: modelos são treinados, ajustados e integrados por sujeitos distintos |
-| **Natureza da responsabilidade** | civil × administrativa × penal | Penal exige tipo fechado; administrativa depende de órgão; civil depende de vítima |
-| **Nexo** | dolo ou culpa × risco da atividade × falha sistêmica | Responsabilidade objetiva para desenvolvimento de IA é tese sem precedente no acervo |
-| **Agravante** | pelo desenho × pelo treinamento × pelos dois | "Viabilizar" é conceito aberto — a formulação turca não o define |
-| **Cadeia de valor** | reatribuição de papel (UE) × dever de informação entre elos × os dois | Reatribuição sem dever de informação entre elos deixa o integrador sem os dados de que precisa |
-| **Escopo material** | alto risco × IA generativa × todo sistema | Quanto mais amplo, maior o custo de conformidade e menor a chance de aprovação |
-| **Encerramento** | silêncio × dever de comunicar descontinuação | Nenhum precedente brasileiro; o modelo chinês é o único do acervo que trata |
+| **Qual definição alterar** | Marco Civil, art. 5º (novo inciso) × definição autônoma no capítulo de IA × definir em cada lei | Definir no Marco Civil alcança responsabilidade e Capítulo IV-A; definição autônoma não alcança nada por si |
+| **Estrutura do verbo** | "desenvolve" × "desenvolve e fornece" × dois ramos (desenvolve / manda desenvolver e comercializa) | O modelo da UE usa dois ramos; "desenvolve" sozinho alcança quem treina para uso próprio |
+| **Escopo material** | todo modelo × só modelos de uso geral × só alto risco | O regime europeu separa: capítulo próprio para uso geral, requisitos para alto risco |
+| **Código aberto** | excluído × incluído × incluído salvo risco sistêmico | A UE exclui com ressalva de risco sistêmico |
+| **Ajuste fino** | cria regime novo × obrigação limitada à modificação | A UE limita à modificação (considerando 109) |
+| **Consequência** | todos os deveres × só transparência e informação | Alcance total é coerente, mas inviável para modelo pequeno |
+| **Modelos já treinados** | retroativo × só prospectivo | Retroatividade exige documentação que nunca existiu |
+| **Objetiva ou subjetiva** | regime do Tema 987 (subjetiva) × objetiva via emenda constitucional | Muda o veículo: uma linha de emenda × PEC |
 
 ---
 
 ## 6. Lacunas de pesquisa
 
-1. **Não há, no acervo, o PL 2338/2023** nem o texto do PL 4218/2025 — os dois veículos brasileiros que já tratam de responsabilidade de sistemas de IA. Sem eles, a seção 3 descreve apenas o direito **vigente**, não o que está em tramitação.
-2. Não localizei, no acervo, **lei nacional que responsabilize penalmente o desenvolvedor** de IA. A Turquia é projeto.
-3. Não verifiquei se há **regulamento do AI Act** definindo "modificação substancial" além do considerando — e a definição é o que decide o alcance do art. 25.
-4. Falta o **CDC** no acervo: qualquer discussão sobre responsabilidade objetiva por produto no Brasil passa por ele.
-5. Não há dados sobre **litígios brasileiros** em que o desenvolvedor de modelo tenha sido parte.
+1. O **PL 2338/2023** não está no acervo — é provável que já trate de fornecedor e desenvolvedor.
+2. O **CDC** não está no acervo: "fornecedor" (art. 3º) pode alcançar o desenvolvedor na cadeia de consumo, e isso mudaria o diagnóstico do item 3.
+3. Não verifiquei se o **omnibus 2026/1744** alterou os arts. 51 a 55 — a leitura dos dispositivos de alteração indica que não, mas a conferência não foi linha a linha.
+4. Não há, no acervo, **definição de "desenvolve"**: ajuste fino conta? treinar sobre modelo de terceiro conta? O considerando 109 do AI Act sugere que sim, limitado à modificação.
+5. Não há dado sobre **quantos desenvolvedores de modelo operam no Brasil** — o que impede dimensionar o custo de conformidade.
 
 ---
 
 ## 7. Perguntas abertas
 
-1. A lei define **desenvolvedor** — e como trata quem apenas ajusta (*fine-tuning*) um modelo de terceiro?
-2. A responsabilidade do desenvolvedor é **autônoma** ou subsidiária à de quem publica?
-3. A agravante depende de **dolo específico** ou basta a viabilização pelo desenho?
-4. O regime alcança **todo** sistema de IA ou só alto risco e IA generativa?
-5. Há dever de **informação entre elos** da cadeia — e quem responde se a informação não é prestada?
-6. O **encerramento** do serviço entra no regime, como no modelo chinês, ou fica fora?
+1. A definição de "provedor de aplicações de internet" passa a abranger **quem desenvolve**, ou só quem desenvolve **e fornece**?
+2. O **ajuste fino** de modelo de terceiro cria obrigação própria ou se limita à modificação?
+3. **Código aberto** fica fora, com ou sem ressalva de risco sistêmico?
+4. A responsabilidade do desenvolvedor é **subjetiva** (regime do Tema 987) ou **objetiva** (exige a PEC)?
+5. O regime alcança **todo** modelo ou só uso geral e alto risco?
+6. **Modelos já treinados** ficam sujeitos a algum dever de documentação?

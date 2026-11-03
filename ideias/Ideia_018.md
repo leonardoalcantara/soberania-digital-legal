@@ -61,8 +61,7 @@ Item ③:
 
 Fonte: `fontes/Japao/2024-lei-58-smartphone-software.xml` (sumário oficial em `jftc-sumario-oficial-da-lei-EN.md`)
 
-**O que o desenho japonês tem de diferente:** é a única norma do acervo que enuncia a vedação de
-autopreferência **referindo-se expressamente a "resultados de busca"**, e não a "ranqueamento" em geral. Também é a que trata o **desempenho** como parâmetro de comparação na interoperabilidade — não basta haver acesso, tem de ser no mesmo nível.
+**O que o desenho japonês tem de diferente:** é a única norma do acervo que enuncia a vedação de autopreferência **referindo-se expressamente a "resultados de busca"**, e não a "ranqueamento" em geral. Também é a que trata o **desempenho** como parâmetro de comparação na interoperabilidade — não basta haver acesso, tem de ser no mesmo nível.
 
 E há um detalhe de execução: o descumprimento sujeita o infrator a **ordem de pagamento de 20% do faturamento relevante**.
 
