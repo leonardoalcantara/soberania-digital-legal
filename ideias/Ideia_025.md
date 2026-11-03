@@ -121,7 +121,7 @@ Fonte: `fontes/Brasil/2014-lei-12965-Marco Civil da Internet - texto.md`
 | **Teto da multa** | 10% do faturamento no Brasil (Marco Civil) × 10% mundial (OSA) × 7% (AI Act) × 6% (DSA) | Base mundial dissuade; base nacional é executável |
 | **Base de cálculo** | faturamento do grupo no Brasil × mundial × o que for maior | Sem base mundial, plataforma sem receita no País não é alcançada |
 | **Natureza da multa** | objetiva × exige dolo ou negligência (DSA) | O DSA é subjetivo; objetividade vai além do modelo |
-| **Degrau intermediário** | proibição de propaganda × proibição de impulsionar × suspensão de funcionalidade | "Propaganda" precisa de definição — para plataforma, é vender publicidade |
+| **Degrau intermediário** | proibição de propaganda × proibição de impulsionar × suspensão de funcionalidade | **decidido: fica na lei da soberania** (art. 6º, II), que já define a matéria. No Marco Civil, o art. 12 escala sem esse degrau |
 | **Prazo de reincidência** | 5 anos × 2 anos × sem prazo | Prazo curto esvazia a escala |
 | **Terceiro degrau** | cancelamento de permissão (exige registro prévio) × proibição de operar | Sem a Ideia_007, muda a natureza e o regime |
 | **Executivos — esfera** | administrativa × civil × penal | Penal exige dolo; administrativa pode ser objetiva |

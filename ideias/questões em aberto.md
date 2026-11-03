@@ -198,7 +198,7 @@ A 014 fixa prazo para cumprimento de ordem de **autoridade**; a 015 fixa prazo p
 | **D.3** | **Veículo de cada ideia** — PEC, lei, regulamento ou contrato | Nenhuma das 20 foi classificada. A decisão de arquitetura (PEC = princípios, lei = deveres e sanções, regulamento = detalhe técnico) existe, mas não foi aplicada |
 | **D.4** | **Formato do produto final** | "Subsídio" pode ser emendas a uma PEC que ainda não foi protocolada, minuta de PL paralelo, ou texto de justificação. São três documentos diferentes |
 | **D.5** | **Público da advocacy** | Parlamentar, assessoria, movimento social ou imprensa — muda o registro e o tamanho |
-| **D.6** | **`rascunhos-do-assistente/`** | Seis arquivos em quarentena (substitutivo de PEC, emendas, subsídio, advocacy, banco de ideias). Manter como histórico, arquivar fora do repo ou apagar |
+| **D.6** | **`rascunhos-do-assistente/`** | **resolvida:** os oito textos válidos passaram a `propostas/`, normalizados por instrumento. A pasta de rascunhos ficou vazia e foi removida |
 | **D.7** | **Peso do repositório** | `.git` com 27 MB e `fontes/` com 37 MB de PDFs. Decidir se o acervo de fontes fica versionado, ou só o índice com URLs |
 
 ---

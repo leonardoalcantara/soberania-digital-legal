@@ -188,4 +188,24 @@ Depende de decisão sua, e está detalhado em [[questões em aberto]]:
 | C — menores e conteúdo sintético | 008 a 012 | escritos |
 | D — responsabilidade e infraestrutura | 015 a 020 | escritos |
 | Novas, com arquivo | 021 monetização · 022 devido processo · 023 ponderação · 024 responsabilidade objetiva · 025 três degraus | escritos |
-| Instrumentos | [[Glossário]] · [[questões em aberto]] · `rascunhos-do-assistente/2026-rascunho-lei-dano-soberania.md` | escritos |
+| **Instrumentos** | [[Glossário]] · [[questões em aberto]] · `propostas/` (1 PEC, 8 PLs, 1 resolução) | escritos |
+
+## 9. As propostas em `propostas/`
+
+A pasta reúne os textos legislativos, um por instrumento. O `LEIA-ME` de lá traz o mapa completo com dependências; em resumo:
+
+| Arquivo | Instrumento | Altera | Ideias |
+|---|---|---|---|
+| `pec-01-soberania-digital.md` | PEC | CF, arts. 5º, 21, 22, 170 e 220 | 001, 022, 023, 024 |
+| `pl-01-marco-civil-devido-processo.md` | PL | Marco Civil | 001, 013, 014, 015, 022 |
+| `pl-02-marco-civil-transparencia-e-auditoria.md` | PL | Marco Civil | 004, 009, 020, 023 |
+| `pl-03-marco-civil-habilitacao.md` | PL | Marco Civil | 007 |
+| `pl-04-marco-civil-dados-de-treinamento-e-gradacao.md` | PL | Marco Civil | 017, 025 |
+| `pl-05-lei-9504-impulsionamento-e-prazos.md` | PL | Lei 9.504 | 003, 022 |
+| `pl-06-lgpd-competencias-e-governanca-anpd.md` | PL | LGPD | 006 + D.1 |
+| `pl-07-mercados-digitais.md` | PL | lei nova | 018 |
+| `pl-08-soberania-digital-dano-eleitoral.md` | PL | lei nova | 024, 025 |
+| `res-01-anpd-eca-digital.md` | Resolução | ECA Digital | 008, 020, 022 |
+| `NOTAS-DE-ARQUITETURA.md` | — | justificativa que atravessa todas | — |
+
+**Quatro projetos alteram o Marco Civil** — é o problema que a normalização por instrumento expôs, e está detalhado no `LEIA-ME` da pasta.

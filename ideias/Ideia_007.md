@@ -50,6 +50,16 @@ Fonte: `fontes/Brasil/2014-lei-12965-Marco Civil da Internet.md`
 
 ---
 
+### Onde cada sanção da formulação original deve morar
+
+| Sanção | Casa | Por quê |
+|---|---|---|
+| Registro prévio | **Marco Civil**, Capítulo IV-B (Anteprojeto G) | é condição de operar, matéria de obrigações gerais |
+| Multa | **Marco Civil**, art. 12, II | já existe, com teto de 10% |
+| Bloqueio da operação | **Marco Civil**, art. 12, IV, e art. 23-O | já existe como proibição de exercício |
+| Proibição de veicular propaganda | **lei da soberania**, art. 6º, II | é a única lei cujo objeto é a integridade do processo político-eleitoral, e ela já define a matéria; no Marco Civil exigiria definir propaganda político-eleitoral, e na Lei 9.504 ficaria presa à janela eleitoral |
+| Divulgação em larga escala | **Marco Civil**, art. 12, V (novo) | não existia; foi criada no Anteprojeto G |
+
 ## 3. O que já existe no Brasil (e o que falta)
 
 **Existe:**
